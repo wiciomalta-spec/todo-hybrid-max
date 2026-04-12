@@ -84,22 +84,20 @@ class TodoDatabase:
         conn.close()
 
 # Flask API for Sync
-app = Flask(__name__)
-db = None
+flask_app = Flask(__name__)
+db_instance = None
 
-@app.route('/sync', methods=['POST'])
+@flask_app.route('/sync', methods=['POST'])
 def sync():
     data = request.json
     if data.get('tasks'):
-        # Import tasks from Web
         for task in data['tasks']:
             try:
-                db.add(task['text'])
+                db_instance.add(task['text'])
             except:
                 pass
     
-    # Return all tasks
-    tasks = db.get_all()
+    tasks = db_instance.get_all()
     return jsonify({
         'tasks': [
             {
@@ -112,9 +110,9 @@ def sync():
         ]
     })
 
-@app.route('/sync', methods=['GET'])
+@flask_app.route('/sync', methods=['GET'])
 def get_tasks():
-    tasks = db.get_all()
+    tasks = db_instance.get_all()
     return jsonify({
         'tasks': [
             {
@@ -140,12 +138,10 @@ class TodoApp(QMainWindow):
         self.setWindowTitle('📝 To-Do Hybrid MAX - Desktop Edition v1.0')
         self.setGeometry(100, 100, 600, 700)
         
-        # Main widget
         main_widget = QWidget()
         self.setCentralWidget(main_widget)
         layout = QVBoxLayout()
         
-        # Title
         title = QLabel('To-Do Hybrid MAX')
         title_font = QFont()
         title_font.setPointSize(16)
@@ -153,7 +149,6 @@ class TodoApp(QMainWindow):
         title.setFont(title_font)
         layout.addWidget(title)
         
-        # Input section
         input_layout = QHBoxLayout()
         self.input_field = QLineEdit()
         self.input_field.setPlaceholderText('Dodaj nowe zadanie...')
@@ -166,7 +161,6 @@ class TodoApp(QMainWindow):
         
         layout.addLayout(input_layout)
         
-        # Filter section
         filter_layout = QHBoxLayout()
         self.filter_combo = QComboBox()
         self.filter_combo.addItems(['Wszystkie', 'Aktywne', 'Ukończone'])
@@ -177,11 +171,9 @@ class TodoApp(QMainWindow):
         
         layout.addLayout(filter_layout)
         
-        # Task list
         self.task_list = QListWidget()
         layout.addWidget(self.task_list)
         
-        # Stats
         stats_layout = QHBoxLayout()
         self.task_count = QLabel('Zadań: 0')
         stats_layout.addWidget(self.task_count)
@@ -197,7 +189,6 @@ class TodoApp(QMainWindow):
         
         layout.addLayout(stats_layout)
         
-        # Sync status
         self.sync_status = QLabel('Status: Gotowy')
         layout.addWidget(self.sync_status)
         
@@ -222,7 +213,6 @@ class TodoApp(QMainWindow):
     def add_list_item(self, task_id, text, completed):
         item = QListWidgetItem()
         
-        # Create checkbox
         checkbox = QCheckBox(text)
         checkbox.setChecked(completed)
         checkbox.stateChanged.connect(lambda: self.toggle_task(task_id))
@@ -274,17 +264,17 @@ class TodoApp(QMainWindow):
             self.sync_status.setText('Status: ⚠️ Web app niedostępna')
     
     def start_sync_server(self):
-        global db
-        db = self.db
+        global db_instance
+        db_instance = self.db
         
         def run_server():
-            app.run(host='localhost', port=5000, debug=False)
+            flask_app.run(host='localhost', port=5000, debug=False, use_reloader=False)
         
         server_thread = threading.Thread(target=run_server, daemon=True)
         server_thread.start()
 
 if __name__ == '__main__':
-    app = QApplication(sys.argv)
+    qt_app = QApplication(sys.argv)
     window = TodoApp()
     window.show()
-    sys.exit(app.exec_())
+    sys.exit(qt_app.exec_())
