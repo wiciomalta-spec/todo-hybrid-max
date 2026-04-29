@@ -1,13 +1,101 @@
-﻿__pycache__/
+﻿###############################################
+# HYBRID ULTIMATE .gitignore
+# Python + C# + Desktop + Updater + Vendor
+###############################################
+
+###############
+# PYTHON
+###############
+__pycache__/
 *.pyc
 *.pyo
+*.pyd
+*.spec
 *.egg-info/
+.venv/
+venv/
+env/
+.env
+
+###############
+# PYINSTALLER
+###############
 dist/
 build/
-.env
-venv/
-node_modules/
-todos.db
+*.exe
+*.dll
+*.manifest
+
+###############
+# DESKTOP APP
+###############
+desktop/*.log
+desktop/*.tmp
+desktop/__pycache__/
+
+###############
+# SHARED MODULES
+###############
+shared/__pycache__/
+
+###############
+# VENDOR (KEEP)
+###############
+# vendor/ zostaje w repo – nie ignorujemy
+
+###############
+# RUNTIME / TEMP
+###############
+runtime/
+temp/
+logs/
 *.log
-.DS_Store
+*.tmp
+*.cache
+todos.db
+
+###############
+# BACKUPS
+###############
+backups/
+*.bak
+*.old
+
+###############
+# UPDATER
+###############
+updater/*.zip
+updater/*.json
+updater/*.ps1
+
+###############
+# RELEASES
+###############
+releases/
+*.zip
+
+###############
+# C# / VISUAL STUDIO
+###############
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.pdb
+*.cache
+*.db
+*.mdb
+
+###############
+# NODE / WEB
+###############
+node_modules/
+*.map
+
+###############
+# SYSTEM FILES
+###############
 Thumbs.db
+.DS_Store
+desktop.ini

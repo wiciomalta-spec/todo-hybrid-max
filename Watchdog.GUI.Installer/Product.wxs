@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+
+  <Product
+      Id="*"
+      Name="Watchdog GUI"
+      Language="1033"
+      Version="1.0.0.0"
+      Manufacturer="Bartosz"
+      UpgradeCode="A1234567-BBBB-4444-9999-ABCDEF123456">
+
+    <Package InstallerVersion="500"
+             Compressed="yes"
+             InstallScope="perMachine" />
+
+    <MediaTemplate />
+
+    <!-- Branding -->
+    <WixVariable Id="WixUIBannerBmp" Value="banner.bmp" />
+    <WixVariable Id="WixUIDialogBmp" Value="dialog.bmp" />
+    <WixVariable Id="WixUIIcon"      Value="icon.ico" />
+
+    <UIRef Id="WixUI_InstallDir" />
+
+    <!-- Œcie¿ka instalacji -->
+    <Property Id="INSTALLFOLDER" Value="C:\Users\User\Desktop\todo-hybrid-max\Watchdog.GUI" />
+
+    <Directory Id="TARGETDIR" Name="SourceDir">
+      <Directory Id="INSTALLFOLDER" Name="Watchdog.GUI" />
+
+      <Directory Id="DesktopFolder" Name="Desktop" />
+
+      <Directory Id="ProgramMenuFolder">
+        <Directory Id="WatchdogMenu" Name="Watchdog GUI" />
+      </Directory>
+    </Directory>
+
+    <!-- Komponent: us³uga WatchdogService -->
+    <DirectoryRef Id="INSTALLFOLDER">
+      <Component Id="WatchdogServiceComponent" Guid="11111111-1111-1111-1111-111111111111">
+        <File Id="WatchdogServiceExe"
+              Source="C:\Users\User\Desktop\todo-hybrid-max\Watchdog\bin\Release\net10.0\publish\Watchdog.exe"
+              KeyPath="yes" />
+
+        <ServiceInstall
+            Id="WatchdogServiceInstaller"
+            Name="WatchdogService"
+            DisplayName="Watchdog Service"
+            Description="Hybrid monitoring service"
+            Start="auto"
+            Type="ownProcess"
+            ErrorControl="normal" />
+
+        <ServiceControl
+            Id="WatchdogServiceControl"
+            Name="WatchdogService"
+            Start="install"
+            Stop="both"
+            Remove="uninstall"
+            Wait="yes" />
+      </Component>
+
+      <!-- Komponent: pliki GUI -->
+      <Component Id="MainExecutable" Guid="22222222-2222-2222-2222-222222222222">
+        <File Id="WatchdogGuiExe"
+              Source="C:\Users\User\Desktop\todo-hybrid-max\Watchdog.GUI\bin\Release\net10.0-windows\publish\Watchdog.GUI.exe"
+              KeyPath="yes" />
+      </Component>
+
+      <Component Id="AllFiles" Guid="33333333-3333-3333-3333-333333333333">
+        <File Source="C:\Users\User\Desktop\todo-hybrid-max\Watchdog.GUI\bin\Release\net10.0-windows\publish\*" />
+      </Component>
+    </DirectoryRef>
+
+    <!-- Skrót na pulpicie -->
+    <DirectoryRef Id="DesktopFolder">
+      <Component Id="DesktopShortcut" Guid="44444444-4444-4444-4444-444444444444">
+        <Shortcut Id="DesktopShortcutLink"
+                  Name="Watchdog GUI"
+                  Target="[INSTALLFOLDER]\Watchdog.GUI.exe"
+                  WorkingDirectory="INSTALLFOLDER" />
+        <RegistryValue Root="HKCU"
+                       Key="Software\WatchdogGUI"
+                       Name="installed"
+                       Type="integer"
+                       Value="1"
+                       KeyPath="yes" />
+      </Component>
+    </DirectoryRef>
+
+    <!-- Skrót w menu Start -->
+    <DirectoryRef Id="WatchdogMenu">
+      <Component Id="StartMenuShortcut" Guid="55555555-5555-5555-5555-555555555555">
+        <Shortcut Id="StartMenuShortcutLink"
+                  Name="Watchdog GUI"
+                  Target="[INSTALLFOLDER]\Watchdog.GUI.exe"
+                  WorkingDirectory="INSTALLFOLDER" />
+        <RegistryValue Root="HKCU"
+                       Key="Software\WatchdogGUI"
+                       Name="installed2"
+                       Type="integer"
+                       Value="1"
+                       KeyPath="yes" />
+      </Component>
+    </DirectoryRef>
+
+    <!-- Feature -->
+    <Feature Id="MainFeature" Title="Watchdog GUI" Level="1">
+      <ComponentRef Id="WatchdogServiceComponent" />
+      <ComponentRef Id="MainExecutable" />
+      <ComponentRef Id="AllFiles" />
+      <ComponentRef Id="DesktopShortcut" />
+      <ComponentRef Id="StartMenuShortcut" />
+    </Feature>
+
+  </Product>
+</Wix>

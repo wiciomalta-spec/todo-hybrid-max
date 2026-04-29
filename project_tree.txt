@@ -1,0 +1,3047 @@
+﻿📁 C:\Users\User\Desktop\todo-hybrid-max
+├── backups
+│   ├── backup_20260415_185004
+│   ├── backup_20260415_201231
+│   ├── backup_20260415_201441
+│   ├── backup_20260415_201631
+│   ├── backup_20260415_201822
+│   ├── backup_20260415_203139
+│   ├── desktop
+│   │   └── sync_manager.py
+│   ├── update.json
+│   └── update.ps1
+├── desktop
+│   ├── Desktop Integration.PyQt5
+│   ├── main.py
+│   ├── sync.js
+│   └── sync_manager.py
+├── docs
+├── releases
+│   └── releases
+├── shared
+├── vendor
+│   ├── blinker
+│   │   ├── base.py
+│   │   ├── py.typed
+│   │   ├── _utilities.py
+│   │   └── __init__.py
+│   ├── blinker-1.9.0.dist-info
+│   │   ├── INSTALLER
+│   │   ├── LICENSE.txt
+│   │   ├── METADATA
+│   │   ├── RECORD
+│   │   └── WHEEL
+│   ├── certifi
+│   │   ├── cacert.pem
+│   │   ├── core.py
+│   │   ├── py.typed
+│   │   ├── __init__.py
+│   │   └── __main__.py
+│   ├── certifi-2026.2.25.dist-info
+│   │   ├── licenses
+│   │   │   └── LICENSE
+│   │   ├── INSTALLER
+│   │   ├── METADATA
+│   │   ├── RECORD
+│   │   ├── top_level.txt
+│   │   └── WHEEL
+│   ├── charset_normalizer
+│   │   ├── cli
+│   │   │   ├── __init__.py
+│   │   │   └── __main__.py
+│   │   ├── api.py
+│   │   ├── cd.cp312-win_amd64.pyd
+│   │   ├── cd.py
+│   │   ├── constant.py
+│   │   ├── legacy.py
+│   │   ├── md.cp312-win_amd64.pyd
+│   │   ├── md.py
+│   │   ├── models.py
+│   │   ├── py.typed
+│   │   ├── utils.py
+│   │   ├── version.py
+│   │   ├── __init__.py
+│   │   └── __main__.py
+│   ├── charset_normalizer-3.4.7.dist-info
+│   │   ├── licenses
+│   │   │   └── LICENSE
+│   │   ├── entry_points.txt
+│   │   ├── INSTALLER
+│   │   ├── METADATA
+│   │   ├── RECORD
+│   │   ├── top_level.txt
+│   │   └── WHEEL
+│   ├── click
+│   │   ├── core.py
+│   │   ├── decorators.py
+│   │   ├── exceptions.py
+│   │   ├── formatting.py
+│   │   ├── globals.py
+│   │   ├── parser.py
+│   │   ├── py.typed
+│   │   ├── shell_completion.py
+│   │   ├── termui.py
+│   │   ├── testing.py
+│   │   ├── types.py
+│   │   ├── utils.py
+│   │   ├── _compat.py
+│   │   ├── _termui_impl.py
+│   │   ├── _textwrap.py
+│   │   ├── _utils.py
+│   │   ├── _winconsole.py
+│   │   └── __init__.py
+│   ├── click-8.3.2.dist-info
+│   │   ├── licenses
+│   │   │   └── LICENSE.txt
+│   │   ├── INSTALLER
+│   │   ├── METADATA
+│   │   ├── RECORD
+│   │   └── WHEEL
+│   ├── colorama
+│   │   ├── tests
+│   │   │   ├── ansitowin32_test.py
+│   │   │   ├── ansi_test.py
+│   │   │   ├── initialise_test.py
+│   │   │   ├── isatty_test.py
+│   │   │   ├── utils.py
+│   │   │   ├── winterm_test.py
+│   │   │   └── __init__.py
+│   │   ├── ansi.py
+│   │   ├── ansitowin32.py
+│   │   ├── initialise.py
+│   │   ├── win32.py
+│   │   ├── winterm.py
+│   │   └── __init__.py
+│   ├── colorama-0.4.6.dist-info
+│   │   ├── licenses
+│   │   │   └── LICENSE.txt
+│   │   ├── INSTALLER
+│   │   ├── METADATA
+│   │   ├── RECORD
+│   │   └── WHEEL
+│   ├── flask
+│   │   ├── json
+│   │   │   ├── provider.py
+│   │   │   ├── tag.py
+│   │   │   └── __init__.py
+│   │   ├── app.py
+│   │   ├── blueprints.py
+│   │   ├── cli.py
+│   │   ├── config.py
+│   │   ├── ctx.py
+│   │   ├── debughelpers.py
+│   │   ├── globals.py
+│   │   ├── helpers.py
+│   │   ├── logging.py
+│   │   ├── py.typed
+│   │   ├── scaffold.py
+│   │   ├── sessions.py
+│   │   ├── signals.py
+│   │   ├── templating.py
+│   │   ├── testing.py
+│   │   ├── typing.py
+│   │   ├── views.py
+│   │   ├── wrappers.py
+│   │   ├── __init__.py
+│   │   └── __main__.py
+│   ├── Flask-2.3.2.dist-info
+│   │   ├── entry_points.txt
+│   │   ├── INSTALLER
+│   │   ├── LICENSE.rst
+│   │   ├── METADATA
+│   │   ├── RECORD
+│   │   ├── REQUESTED
+│   │   ├── top_level.txt
+│   │   └── WHEEL
+│   ├── idna
+│   │   ├── codec.py
+│   │   ├── compat.py
+│   │   ├── core.py
+│   │   ├── idnadata.py
+│   │   ├── intranges.py
+│   │   ├── package_data.py
+│   │   ├── py.typed
+│   │   ├── uts46data.py
+│   │   └── __init__.py
+│   ├── idna-3.11.dist-info
+│   │   ├── licenses
+│   │   │   └── LICENSE.md
+│   │   ├── INSTALLER
+│   │   ├── METADATA
+│   │   ├── RECORD
+│   │   └── WHEEL
+│   ├── itsdangerous
+│   │   ├── encoding.py
+│   │   ├── exc.py
+│   │   ├── py.typed
+│   │   ├── serializer.py
+│   │   ├── signer.py
+│   │   ├── timed.py
+│   │   ├── url_safe.py
+│   │   ├── _json.py
+│   │   └── __init__.py
+│   ├── itsdangerous-2.2.0.dist-info
+│   │   ├── INSTALLER
+│   │   ├── LICENSE.txt
+│   │   ├── METADATA
+│   │   ├── RECORD
+│   │   └── WHEEL
+│   ├── jinja2
+│   │   ├── async_utils.py
+│   │   ├── bccache.py
+│   │   ├── compiler.py
+│   │   ├── constants.py
+│   │   ├── debug.py
+│   │   ├── defaults.py
+│   │   ├── environment.py
+│   │   ├── exceptions.py
+│   │   ├── ext.py
+│   │   ├── filters.py
+│   │   ├── idtracking.py
+│   │   ├── lexer.py
+│   │   ├── loaders.py
+│   │   ├── meta.py
+│   │   ├── nativetypes.py
+│   │   ├── nodes.py
+│   │   ├── optimizer.py
+│   │   ├── parser.py
+│   │   ├── py.typed
+│   │   ├── runtime.py
+│   │   ├── sandbox.py
+│   │   ├── tests.py
+│   │   ├── utils.py
+│   │   ├── visitor.py
+│   │   ├── _identifier.py
+│   │   └── __init__.py
+│   ├── jinja2-3.1.6.dist-info
+│   │   ├── licenses
+│   │   │   └── LICENSE.txt
+│   │   ├── entry_points.txt
+│   │   ├── INSTALLER
+│   │   ├── METADATA
+│   │   ├── RECORD
+│   │   └── WHEEL
+│   ├── markupsafe
+│   │   ├── py.typed
+│   │   ├── _native.py
+│   │   ├── _speedups.c
+│   │   ├── _speedups.cp312-win_amd64.pyd
+│   │   ├── _speedups.pyi
+│   │   └── __init__.py
+│   ├── markupsafe-3.0.3.dist-info
+│   │   ├── licenses
+│   │   │   └── LICENSE.txt
+│   │   ├── INSTALLER
+│   │   ├── METADATA
+│   │   ├── RECORD
+│   │   ├── top_level.txt
+│   │   └── WHEEL
+│   ├── PyQt5
+│   │   ├── bindings
+│   │   │   ├── QAxContainer
+│   │   │   │   ├── qaxbase.sip
+│   │   │   │   ├── QAxContainer.toml
+│   │   │   │   ├── QAxContainermod.sip
+│   │   │   │   ├── qaxobject.sip
+│   │   │   │   └── qaxwidget.sip
+│   │   │   ├── QtBluetooth
+│   │   │   │   ├── qbluetooth.sip
+│   │   │   │   ├── qbluetoothaddress.sip
+│   │   │   │   ├── qbluetoothdevicediscoveryagent.sip
+│   │   │   │   ├── qbluetoothdeviceinfo.sip
+│   │   │   │   ├── qbluetoothhostinfo.sip
+│   │   │   │   ├── qbluetoothlocaldevice.sip
+│   │   │   │   ├── qbluetoothserver.sip
+│   │   │   │   ├── qbluetoothservicediscoveryagent.sip
+│   │   │   │   ├── qbluetoothserviceinfo.sip
+│   │   │   │   ├── qbluetoothsocket.sip
+│   │   │   │   ├── qbluetoothtransfermanager.sip
+│   │   │   │   ├── qbluetoothtransferreply.sip
+│   │   │   │   ├── qbluetoothtransferrequest.sip
+│   │   │   │   ├── qbluetoothuuid.sip
+│   │   │   │   ├── qlowenergyadvertisingdata.sip
+│   │   │   │   ├── qlowenergyadvertisingparameters.sip
+│   │   │   │   ├── qlowenergycharacteristic.sip
+│   │   │   │   ├── qlowenergycharacteristicdata.sip
+│   │   │   │   ├── qlowenergyconnectionparameters.sip
+│   │   │   │   ├── qlowenergycontroller.sip
+│   │   │   │   ├── qlowenergydescriptor.sip
+│   │   │   │   ├── qlowenergydescriptordata.sip
+│   │   │   │   ├── qlowenergyservice.sip
+│   │   │   │   ├── qlowenergyservicedata.sip
+│   │   │   │   ├── qpybluetooth_qlist.sip
+│   │   │   │   ├── qpybluetooth_quint128.sip
+│   │   │   │   ├── QtBluetooth.toml
+│   │   │   │   └── QtBluetoothmod.sip
+│   │   │   ├── QtCore
+│   │   │   │   ├── pyqt-gpl.sip5
+│   │   │   │   ├── qabstractanimation.sip
+│   │   │   │   ├── qabstracteventdispatcher.sip
+│   │   │   │   ├── qabstractitemmodel.sip
+│   │   │   │   ├── qabstractnativeeventfilter.sip
+│   │   │   │   ├── qabstractproxymodel.sip
+│   │   │   │   ├── qabstractstate.sip
+│   │   │   │   ├── qabstracttransition.sip
+│   │   │   │   ├── qanimationgroup.sip
+│   │   │   │   ├── qbasictimer.sip
+│   │   │   │   ├── qbitarray.sip
+│   │   │   │   ├── qbuffer.sip
+│   │   │   │   ├── qbytearray.sip
+│   │   │   │   ├── qbytearraymatcher.sip
+│   │   │   │   ├── qcalendar.sip
+│   │   │   │   ├── qcborcommon.sip
+│   │   │   │   ├── qcborstream.sip
+│   │   │   │   ├── qchar.sip
+│   │   │   │   ├── qcollator.sip
+│   │   │   │   ├── qcommandlineoption.sip
+│   │   │   │   ├── qcommandlineparser.sip
+│   │   │   │   ├── qconcatenatetablesproxymodel.sip
+│   │   │   │   ├── qcoreapplication.sip
+│   │   │   │   ├── qcoreevent.sip
+│   │   │   │   ├── qcryptographichash.sip
+│   │   │   │   ├── qdatastream.sip
+│   │   │   │   ├── qdatetime.sip
+│   │   │   │   ├── qdeadlinetimer.sip
+│   │   │   │   ├── qdir.sip
+│   │   │   │   ├── qdiriterator.sip
+│   │   │   │   ├── qeasingcurve.sip
+│   │   │   │   ├── qelapsedtimer.sip
+│   │   │   │   ├── qeventloop.sip
+│   │   │   │   ├── qeventtransition.sip
+│   │   │   │   ├── qfile.sip
+│   │   │   │   ├── qfiledevice.sip
+│   │   │   │   ├── qfileinfo.sip
+│   │   │   │   ├── qfileselector.sip
+│   │   │   │   ├── qfilesystemwatcher.sip
+│   │   │   │   ├── qfinalstate.sip
+│   │   │   │   ├── qglobal.sip
+│   │   │   │   ├── qhistorystate.sip
+│   │   │   │   ├── qidentityproxymodel.sip
+│   │   │   │   ├── qiodevice.sip
+│   │   │   │   ├── qitemselectionmodel.sip
+│   │   │   │   ├── qjsonarray.sip
+│   │   │   │   ├── qjsondocument.sip
+│   │   │   │   ├── qjsonobject.sip
+│   │   │   │   ├── qjsonvalue.sip
+│   │   │   │   ├── qlibrary.sip
+│   │   │   │   ├── qlibraryinfo.sip
+│   │   │   │   ├── qline.sip
+│   │   │   │   ├── qlocale.sip
+│   │   │   │   ├── qlockfile.sip
+│   │   │   │   ├── qlogging.sip
+│   │   │   │   ├── qloggingcategory.sip
+│   │   │   │   ├── qmargins.sip
+│   │   │   │   ├── qmessageauthenticationcode.sip
+│   │   │   │   ├── qmetaobject.sip
+│   │   │   │   ├── qmetatype.sip
+│   │   │   │   ├── qmimedata.sip
+│   │   │   │   ├── qmimedatabase.sip
+│   │   │   │   ├── qmimetype.sip
+│   │   │   │   ├── qmutex.sip
+│   │   │   │   ├── qnamespace.sip
+│   │   │   │   ├── qnumeric.sip
+│   │   │   │   ├── qobject.sip
+│   │   │   │   ├── qobjectcleanuphandler.sip
+│   │   │   │   ├── qobjectdefs.sip
+│   │   │   │   ├── qoperatingsystemversion.sip
+│   │   │   │   ├── qparallelanimationgroup.sip
+│   │   │   │   ├── qpauseanimation.sip
+│   │   │   │   ├── qpluginloader.sip
+│   │   │   │   ├── qpoint.sip
+│   │   │   │   ├── qprocess.sip
+│   │   │   │   ├── qpropertyanimation.sip
+│   │   │   │   ├── qpycore_qhash.sip
+│   │   │   │   ├── qpycore_qlist.sip
+│   │   │   │   ├── qpycore_qmap.sip
+│   │   │   │   ├── qpycore_qpair.sip
+│   │   │   │   ├── qpycore_qset.sip
+│   │   │   │   ├── qpycore_qvariantmap.sip
+│   │   │   │   ├── qpycore_qvector.sip
+│   │   │   │   ├── qpycore_virtual_error_handler.sip
+│   │   │   │   ├── qrandom.sip
+│   │   │   │   ├── qreadwritelock.sip
+│   │   │   │   ├── qrect.sip
+│   │   │   │   ├── qregexp.sip
+│   │   │   │   ├── qregularexpression.sip
+│   │   │   │   ├── qresource.sip
+│   │   │   │   ├── qrunnable.sip
+│   │   │   │   ├── qsavefile.sip
+│   │   │   │   ├── qsemaphore.sip
+│   │   │   │   ├── qsequentialanimationgroup.sip
+│   │   │   │   ├── qsettings.sip
+│   │   │   │   ├── qsharedmemory.sip
+│   │   │   │   ├── qsignalmapper.sip
+│   │   │   │   ├── qsignaltransition.sip
+│   │   │   │   ├── qsize.sip
+│   │   │   │   ├── qsocketnotifier.sip
+│   │   │   │   ├── qsortfilterproxymodel.sip
+│   │   │   │   ├── qstandardpaths.sip
+│   │   │   │   ├── qstate.sip
+│   │   │   │   ├── qstatemachine.sip
+│   │   │   │   ├── qstorageinfo.sip
+│   │   │   │   ├── qstring.sip
+│   │   │   │   ├── qstringlist.sip
+│   │   │   │   ├── qstringlistmodel.sip
+│   │   │   │   ├── qsysinfo.sip
+│   │   │   │   ├── qsystemsemaphore.sip
+│   │   │   │   ├── QtCore.toml
+│   │   │   │   ├── QtCoremod.sip
+│   │   │   │   ├── qtemporarydir.sip
+│   │   │   │   ├── qtemporaryfile.sip
+│   │   │   │   ├── qtextboundaryfinder.sip
+│   │   │   │   ├── qtextcodec.sip
+│   │   │   │   ├── qtextstream.sip
+│   │   │   │   ├── qthread.sip
+│   │   │   │   ├── qthreadpool.sip
+│   │   │   │   ├── qtimeline.sip
+│   │   │   │   ├── qtimer.sip
+│   │   │   │   ├── qtimezone.sip
+│   │   │   │   ├── qtranslator.sip
+│   │   │   │   ├── qtransposeproxymodel.sip
+│   │   │   │   ├── qurl.sip
+│   │   │   │   ├── qurlquery.sip
+│   │   │   │   ├── quuid.sip
+│   │   │   │   ├── qvariant.sip
+│   │   │   │   ├── qvariantanimation.sip
+│   │   │   │   ├── qversionnumber.sip
+│   │   │   │   ├── qwaitcondition.sip
+│   │   │   │   ├── qwineventnotifier.sip
+│   │   │   │   └── qxmlstream.sip
+│   │   │   ├── QtDBus
+│   │   │   │   ├── qdbusabstractadaptor.sip
+│   │   │   │   ├── qdbusabstractinterface.sip
+│   │   │   │   ├── qdbusargument.sip
+│   │   │   │   ├── qdbusconnection.sip
+│   │   │   │   ├── qdbusconnectioninterface.sip
+│   │   │   │   ├── qdbuserror.sip
+│   │   │   │   ├── qdbusextratypes.sip
+│   │   │   │   ├── qdbusinterface.sip
+│   │   │   │   ├── qdbusmessage.sip
+│   │   │   │   ├── qdbuspendingcall.sip
+│   │   │   │   ├── qdbusservicewatcher.sip
+│   │   │   │   ├── qdbusunixfiledescriptor.sip
+│   │   │   │   ├── qpydbuspendingreply.sip
+│   │   │   │   ├── qpydbusreply.sip
+│   │   │   │   ├── QtDBus.toml
+│   │   │   │   └── QtDBusmod.sip
+│   │   │   ├── QtDesigner
+│   │   │   │   ├── abstractactioneditor.sip
+│   │   │   │   ├── abstractformbuilder.sip
+│   │   │   │   ├── abstractformeditor.sip
+│   │   │   │   ├── abstractformwindow.sip
+│   │   │   │   ├── abstractformwindowcursor.sip
+│   │   │   │   ├── abstractformwindowmanager.sip
+│   │   │   │   ├── abstractobjectinspector.sip
+│   │   │   │   ├── abstractpropertyeditor.sip
+│   │   │   │   ├── abstractwidgetbox.sip
+│   │   │   │   ├── container.sip
+│   │   │   │   ├── customwidget.sip
+│   │   │   │   ├── default_extensionfactory.sip
+│   │   │   │   ├── extension.sip
+│   │   │   │   ├── formbuilder.sip
+│   │   │   │   ├── membersheet.sip
+│   │   │   │   ├── propertysheet.sip
+│   │   │   │   ├── qextensionmanager.sip
+│   │   │   │   ├── qpydesignercontainerextension.sip
+│   │   │   │   ├── qpydesignercustomwidgetcollectionplugin.sip
+│   │   │   │   ├── qpydesignercustomwidgetplugin.sip
+│   │   │   │   ├── qpydesignermembersheetextension.sip
+│   │   │   │   ├── qpydesignerpropertysheetextension.sip
+│   │   │   │   ├── qpydesignertaskmenuextension.sip
+│   │   │   │   ├── QtDesigner.toml
+│   │   │   │   ├── QtDesignermod.sip
+│   │   │   │   └── taskmenu.sip
+│   │   │   ├── QtGui
+│   │   │   │   ├── opengl_types.sip
+│   │   │   │   ├── qabstracttextdocumentlayout.sip
+│   │   │   │   ├── qbackingstore.sip
+│   │   │   │   ├── qbitmap.sip
+│   │   │   │   ├── qbrush.sip
+│   │   │   │   ├── qclipboard.sip
+│   │   │   │   ├── qcolor.sip
+│   │   │   │   ├── qcolorspace.sip
+│   │   │   │   ├── qcolortransform.sip
+│   │   │   │   ├── qcursor.sip
+│   │   │   │   ├── qdesktopservices.sip
+│   │   │   │   ├── qdrag.sip
+│   │   │   │   ├── qevent.sip
+│   │   │   │   ├── qfont.sip
+│   │   │   │   ├── qfontdatabase.sip
+│   │   │   │   ├── qfontinfo.sip
+│   │   │   │   ├── qfontmetrics.sip
+│   │   │   │   ├── qgenericmatrix.sip
+│   │   │   │   ├── qglyphrun.sip
+│   │   │   │   ├── qguiapplication.sip
+│   │   │   │   ├── qicon.sip
+│   │   │   │   ├── qiconengine.sip
+│   │   │   │   ├── qimage.sip
+│   │   │   │   ├── qimageiohandler.sip
+│   │   │   │   ├── qimagereader.sip
+│   │   │   │   ├── qimagewriter.sip
+│   │   │   │   ├── qinputmethod.sip
+│   │   │   │   ├── qkeysequence.sip
+│   │   │   │   ├── qmatrix4x4.sip
+│   │   │   │   ├── qmovie.sip
+│   │   │   │   ├── qoffscreensurface.sip
+│   │   │   │   ├── qopenglbuffer.sip
+│   │   │   │   ├── qopenglcontext.sip
+│   │   │   │   ├── qopengldebug.sip
+│   │   │   │   ├── qopenglframebufferobject.sip
+│   │   │   │   ├── qopenglpaintdevice.sip
+│   │   │   │   ├── qopenglpixeltransferoptions.sip
+│   │   │   │   ├── qopenglshaderprogram.sip
+│   │   │   │   ├── qopengltexture.sip
+│   │   │   │   ├── qopengltextureblitter.sip
+│   │   │   │   ├── qopengltimerquery.sip
+│   │   │   │   ├── qopenglversionfunctions.sip
+│   │   │   │   ├── qopenglvertexarrayobject.sip
+│   │   │   │   ├── qopenglwindow.sip
+│   │   │   │   ├── qpagedpaintdevice.sip
+│   │   │   │   ├── qpagelayout.sip
+│   │   │   │   ├── qpagesize.sip
+│   │   │   │   ├── qpaintdevice.sip
+│   │   │   │   ├── qpaintdevicewindow.sip
+│   │   │   │   ├── qpaintengine.sip
+│   │   │   │   ├── qpainter.sip
+│   │   │   │   ├── qpainterpath.sip
+│   │   │   │   ├── qpalette.sip
+│   │   │   │   ├── qpdfwriter.sip
+│   │   │   │   ├── qpen.sip
+│   │   │   │   ├── qpicture.sip
+│   │   │   │   ├── qpixelformat.sip
+│   │   │   │   ├── qpixmap.sip
+│   │   │   │   ├── qpixmapcache.sip
+│   │   │   │   ├── qpolygon.sip
+│   │   │   │   ├── qpygui_qlist.sip
+│   │   │   │   ├── qpygui_qpair.sip
+│   │   │   │   ├── qpygui_qvector.sip
+│   │   │   │   ├── qquaternion.sip
+│   │   │   │   ├── qrasterwindow.sip
+│   │   │   │   ├── qrawfont.sip
+│   │   │   │   ├── qregion.sip
+│   │   │   │   ├── qrgb.sip
+│   │   │   │   ├── qrgba64.sip
+│   │   │   │   ├── qscreen.sip
+│   │   │   │   ├── qsessionmanager.sip
+│   │   │   │   ├── qstandarditemmodel.sip
+│   │   │   │   ├── qstatictext.sip
+│   │   │   │   ├── qstylehints.sip
+│   │   │   │   ├── qsurface.sip
+│   │   │   │   ├── qsurfaceformat.sip
+│   │   │   │   ├── qsyntaxhighlighter.sip
+│   │   │   │   ├── qtextcursor.sip
+│   │   │   │   ├── qtextdocument.sip
+│   │   │   │   ├── qtextdocumentfragment.sip
+│   │   │   │   ├── qtextdocumentwriter.sip
+│   │   │   │   ├── qtextformat.sip
+│   │   │   │   ├── qtextlayout.sip
+│   │   │   │   ├── qtextlist.sip
+│   │   │   │   ├── qtextobject.sip
+│   │   │   │   ├── qtextoption.sip
+│   │   │   │   ├── qtexttable.sip
+│   │   │   │   ├── QtGui.toml
+│   │   │   │   ├── QtGuimod.sip
+│   │   │   │   ├── qtouchdevice.sip
+│   │   │   │   ├── qtransform.sip
+│   │   │   │   ├── qvalidator.sip
+│   │   │   │   ├── qvector2d.sip
+│   │   │   │   ├── qvector3d.sip
+│   │   │   │   ├── qvector4d.sip
+│   │   │   │   ├── qwindow.sip
+│   │   │   │   └── qwindowdefs.sip
+│   │   │   ├── QtHelp
+│   │   │   │   ├── qcompressedhelpinfo.sip
+│   │   │   │   ├── qhelpcontentwidget.sip
+│   │   │   │   ├── qhelpengine.sip
+│   │   │   │   ├── qhelpenginecore.sip
+│   │   │   │   ├── qhelpfilterdata.sip
+│   │   │   │   ├── qhelpfilterengine.sip
+│   │   │   │   ├── qhelpfiltersettingswidget.sip
+│   │   │   │   ├── qhelpindexwidget.sip
+│   │   │   │   ├── qhelplink.sip
+│   │   │   │   ├── qhelpsearchengine.sip
+│   │   │   │   ├── qhelpsearchquerywidget.sip
+│   │   │   │   ├── qhelpsearchresultwidget.sip
+│   │   │   │   ├── QtHelp.toml
+│   │   │   │   └── QtHelpmod.sip
+│   │   │   ├── QtLocation
+│   │   │   │   ├── qgeocodereply.sip
+│   │   │   │   ├── qgeocodingmanager.sip
+│   │   │   │   ├── qgeocodingmanagerengine.sip
+│   │   │   │   ├── qgeomaneuver.sip
+│   │   │   │   ├── qgeoroute.sip
+│   │   │   │   ├── qgeoroutereply.sip
+│   │   │   │   ├── qgeorouterequest.sip
+│   │   │   │   ├── qgeoroutesegment.sip
+│   │   │   │   ├── qgeoroutingmanager.sip
+│   │   │   │   ├── qgeoroutingmanagerengine.sip
+│   │   │   │   ├── qgeoserviceprovider.sip
+│   │   │   │   ├── qlocation.sip
+│   │   │   │   ├── qplace.sip
+│   │   │   │   ├── qplaceattribute.sip
+│   │   │   │   ├── qplacecategory.sip
+│   │   │   │   ├── qplacecontactdetail.sip
+│   │   │   │   ├── qplacecontent.sip
+│   │   │   │   ├── qplacecontentreply.sip
+│   │   │   │   ├── qplacecontentrequest.sip
+│   │   │   │   ├── qplacedetailsreply.sip
+│   │   │   │   ├── qplaceeditorial.sip
+│   │   │   │   ├── qplaceicon.sip
+│   │   │   │   ├── qplaceidreply.sip
+│   │   │   │   ├── qplaceimage.sip
+│   │   │   │   ├── qplacemanager.sip
+│   │   │   │   ├── qplacemanagerengine.sip
+│   │   │   │   ├── qplacematchreply.sip
+│   │   │   │   ├── qplacematchrequest.sip
+│   │   │   │   ├── qplaceproposedsearchresult.sip
+│   │   │   │   ├── qplaceratings.sip
+│   │   │   │   ├── qplacereply.sip
+│   │   │   │   ├── qplaceresult.sip
+│   │   │   │   ├── qplacereview.sip
+│   │   │   │   ├── qplacesearchreply.sip
+│   │   │   │   ├── qplacesearchrequest.sip
+│   │   │   │   ├── qplacesearchresult.sip
+│   │   │   │   ├── qplacesearchsuggestionreply.sip
+│   │   │   │   ├── qplacesupplier.sip
+│   │   │   │   ├── qplaceuser.sip
+│   │   │   │   ├── QtLocation.toml
+│   │   │   │   └── QtLocationmod.sip
+│   │   │   ├── QtMultimedia
+│   │   │   │   ├── qabstractvideobuffer.sip
+│   │   │   │   ├── qabstractvideofilter.sip
+│   │   │   │   ├── qabstractvideosurface.sip
+│   │   │   │   ├── qaudio.sip
+│   │   │   │   ├── qaudiobuffer.sip
+│   │   │   │   ├── qaudiodecoder.sip
+│   │   │   │   ├── qaudiodecodercontrol.sip
+│   │   │   │   ├── qaudiodeviceinfo.sip
+│   │   │   │   ├── qaudioencodersettingscontrol.sip
+│   │   │   │   ├── qaudioformat.sip
+│   │   │   │   ├── qaudioinput.sip
+│   │   │   │   ├── qaudioinputselectorcontrol.sip
+│   │   │   │   ├── qaudiooutput.sip
+│   │   │   │   ├── qaudiooutputselectorcontrol.sip
+│   │   │   │   ├── qaudioprobe.sip
+│   │   │   │   ├── qaudiorecorder.sip
+│   │   │   │   ├── qaudiorolecontrol.sip
+│   │   │   │   ├── qcamera.sip
+│   │   │   │   ├── qcameracapturebufferformatcontrol.sip
+│   │   │   │   ├── qcameracapturedestinationcontrol.sip
+│   │   │   │   ├── qcameracontrol.sip
+│   │   │   │   ├── qcameraexposure.sip
+│   │   │   │   ├── qcameraexposurecontrol.sip
+│   │   │   │   ├── qcamerafeedbackcontrol.sip
+│   │   │   │   ├── qcameraflashcontrol.sip
+│   │   │   │   ├── qcamerafocus.sip
+│   │   │   │   ├── qcamerafocuscontrol.sip
+│   │   │   │   ├── qcameraimagecapture.sip
+│   │   │   │   ├── qcameraimagecapturecontrol.sip
+│   │   │   │   ├── qcameraimageprocessing.sip
+│   │   │   │   ├── qcameraimageprocessingcontrol.sip
+│   │   │   │   ├── qcamerainfo.sip
+│   │   │   │   ├── qcamerainfocontrol.sip
+│   │   │   │   ├── qcameralockscontrol.sip
+│   │   │   │   ├── qcameraviewfindersettings.sip
+│   │   │   │   ├── qcameraviewfindersettingscontrol.sip
+│   │   │   │   ├── qcamerazoomcontrol.sip
+│   │   │   │   ├── qcustomaudiorolecontrol.sip
+│   │   │   │   ├── qimageencodercontrol.sip
+│   │   │   │   ├── qmediaaudioprobecontrol.sip
+│   │   │   │   ├── qmediaavailabilitycontrol.sip
+│   │   │   │   ├── qmediabindableinterface.sip
+│   │   │   │   ├── qmediacontainercontrol.sip
+│   │   │   │   ├── qmediacontent.sip
+│   │   │   │   ├── qmediacontrol.sip
+│   │   │   │   ├── qmediaencodersettings.sip
+│   │   │   │   ├── qmediagaplessplaybackcontrol.sip
+│   │   │   │   ├── qmediametadata.sip
+│   │   │   │   ├── qmedianetworkaccesscontrol.sip
+│   │   │   │   ├── qmediaobject.sip
+│   │   │   │   ├── qmediaplayer.sip
+│   │   │   │   ├── qmediaplayercontrol.sip
+│   │   │   │   ├── qmediaplaylist.sip
+│   │   │   │   ├── qmediarecorder.sip
+│   │   │   │   ├── qmediarecordercontrol.sip
+│   │   │   │   ├── qmediaresource.sip
+│   │   │   │   ├── qmediaservice.sip
+│   │   │   │   ├── qmediastreamscontrol.sip
+│   │   │   │   ├── qmediatimerange.sip
+│   │   │   │   ├── qmediavideoprobecontrol.sip
+│   │   │   │   ├── qmetadatareadercontrol.sip
+│   │   │   │   ├── qmetadatawritercontrol.sip
+│   │   │   │   ├── qmultimedia.sip
+│   │   │   │   ├── qpymultimedia_qlist.sip
+│   │   │   │   ├── qradiodata.sip
+│   │   │   │   ├── qradiodatacontrol.sip
+│   │   │   │   ├── qradiotuner.sip
+│   │   │   │   ├── qradiotunercontrol.sip
+│   │   │   │   ├── qsound.sip
+│   │   │   │   ├── qsoundeffect.sip
+│   │   │   │   ├── QtMultimedia.toml
+│   │   │   │   ├── QtMultimediamod.sip
+│   │   │   │   ├── qvideodeviceselectorcontrol.sip
+│   │   │   │   ├── qvideoencodersettingscontrol.sip
+│   │   │   │   ├── qvideoframe.sip
+│   │   │   │   ├── qvideoprobe.sip
+│   │   │   │   ├── qvideorenderercontrol.sip
+│   │   │   │   ├── qvideosurfaceformat.sip
+│   │   │   │   └── qvideowindowcontrol.sip
+│   │   │   ├── QtMultimediaWidgets
+│   │   │   │   ├── qcameraviewfinder.sip
+│   │   │   │   ├── qgraphicsvideoitem.sip
+│   │   │   │   ├── QtMultimediaWidgets.toml
+│   │   │   │   ├── QtMultimediaWidgetsmod.sip
+│   │   │   │   ├── qvideowidget.sip
+│   │   │   │   └── qvideowidgetcontrol.sip
+│   │   │   ├── QtNetwork
+│   │   │   │   ├── qabstractnetworkcache.sip
+│   │   │   │   ├── qabstractsocket.sip
+│   │   │   │   ├── qauthenticator.sip
+│   │   │   │   ├── qdnslookup.sip
+│   │   │   │   ├── qhostaddress.sip
+│   │   │   │   ├── qhostinfo.sip
+│   │   │   │   ├── qhstspolicy.sip
+│   │   │   │   ├── qhttp2configuration.sip
+│   │   │   │   ├── qhttpmultipart.sip
+│   │   │   │   ├── qlocalserver.sip
+│   │   │   │   ├── qlocalsocket.sip
+│   │   │   │   ├── qnetworkaccessmanager.sip
+│   │   │   │   ├── qnetworkconfigmanager.sip
+│   │   │   │   ├── qnetworkconfiguration.sip
+│   │   │   │   ├── qnetworkcookie.sip
+│   │   │   │   ├── qnetworkcookiejar.sip
+│   │   │   │   ├── qnetworkdatagram.sip
+│   │   │   │   ├── qnetworkdiskcache.sip
+│   │   │   │   ├── qnetworkinterface.sip
+│   │   │   │   ├── qnetworkproxy.sip
+│   │   │   │   ├── qnetworkreply.sip
+│   │   │   │   ├── qnetworkrequest.sip
+│   │   │   │   ├── qnetworksession.sip
+│   │   │   │   ├── qocspresponse.sip
+│   │   │   │   ├── qpassworddigestor.sip
+│   │   │   │   ├── qpynetwork_qhash.sip
+│   │   │   │   ├── qpynetwork_qmap.sip
+│   │   │   │   ├── qssl.sip
+│   │   │   │   ├── qsslcertificate.sip
+│   │   │   │   ├── qsslcertificateextension.sip
+│   │   │   │   ├── qsslcipher.sip
+│   │   │   │   ├── qsslconfiguration.sip
+│   │   │   │   ├── qssldiffiehellmanparameters.sip
+│   │   │   │   ├── qsslellipticcurve.sip
+│   │   │   │   ├── qsslerror.sip
+│   │   │   │   ├── qsslkey.sip
+│   │   │   │   ├── qsslpresharedkeyauthenticator.sip
+│   │   │   │   ├── qsslsocket.sip
+│   │   │   │   ├── qtcpserver.sip
+│   │   │   │   ├── qtcpsocket.sip
+│   │   │   │   ├── QtNetwork.toml
+│   │   │   │   ├── QtNetworkmod.sip
+│   │   │   │   └── qudpsocket.sip
+│   │   │   ├── QtNfc
+│   │   │   │   ├── qndeffilter.sip
+│   │   │   │   ├── qndefmessage.sip
+│   │   │   │   ├── qndefnfcsmartposterrecord.sip
+│   │   │   │   ├── qndefnfctextrecord.sip
+│   │   │   │   ├── qndefnfcurirecord.sip
+│   │   │   │   ├── qndefrecord.sip
+│   │   │   │   ├── qnearfieldmanager.sip
+│   │   │   │   ├── qnearfieldsharemanager.sip
+│   │   │   │   ├── qnearfieldsharetarget.sip
+│   │   │   │   ├── qnearfieldtarget.sip
+│   │   │   │   ├── qqmlndefrecord.sip
+│   │   │   │   ├── QtNfc.toml
+│   │   │   │   └── QtNfcmod.sip
+│   │   │   ├── QtOpenGL
+│   │   │   │   ├── qgl.sip
+│   │   │   │   ├── QtOpenGL.toml
+│   │   │   │   └── QtOpenGLmod.sip
+│   │   │   ├── QtPositioning
+│   │   │   │   ├── qgeoaddress.sip
+│   │   │   │   ├── qgeoareamonitorinfo.sip
+│   │   │   │   ├── qgeoareamonitorsource.sip
+│   │   │   │   ├── qgeocircle.sip
+│   │   │   │   ├── qgeocoordinate.sip
+│   │   │   │   ├── qgeolocation.sip
+│   │   │   │   ├── qgeopath.sip
+│   │   │   │   ├── qgeopolygon.sip
+│   │   │   │   ├── qgeopositioninfo.sip
+│   │   │   │   ├── qgeopositioninfosource.sip
+│   │   │   │   ├── qgeorectangle.sip
+│   │   │   │   ├── qgeosatelliteinfo.sip
+│   │   │   │   ├── qgeosatelliteinfosource.sip
+│   │   │   │   ├── qgeoshape.sip
+│   │   │   │   ├── qnmeapositioninfosource.sip
+│   │   │   │   ├── QtPositioning.toml
+│   │   │   │   └── QtPositioningmod.sip
+│   │   │   ├── QtPrintSupport
+│   │   │   │   ├── qabstractprintdialog.sip
+│   │   │   │   ├── qpagesetupdialog.sip
+│   │   │   │   ├── qprintdialog.sip
+│   │   │   │   ├── qprintengine.sip
+│   │   │   │   ├── qprinter.sip
+│   │   │   │   ├── qprinterinfo.sip
+│   │   │   │   ├── qprintpreviewdialog.sip
+│   │   │   │   ├── qprintpreviewwidget.sip
+│   │   │   │   ├── qpyprintsupport_qlist.sip
+│   │   │   │   ├── QtPrintSupport.toml
+│   │   │   │   └── QtPrintSupportmod.sip
+│   │   │   ├── QtQml
+│   │   │   │   ├── qjsengine.sip
+│   │   │   │   ├── qjsvalue.sip
+│   │   │   │   ├── qjsvalueiterator.sip
+│   │   │   │   ├── qmlattachedpropertiesobject.sip
+│   │   │   │   ├── qmlregistertype.sip
+│   │   │   │   ├── qpyqmllistproperty.sip
+│   │   │   │   ├── qqml.sip
+│   │   │   │   ├── qqmlabstracturlinterceptor.sip
+│   │   │   │   ├── qqmlapplicationengine.sip
+│   │   │   │   ├── qqmlcomponent.sip
+│   │   │   │   ├── qqmlcontext.sip
+│   │   │   │   ├── qqmlengine.sip
+│   │   │   │   ├── qqmlerror.sip
+│   │   │   │   ├── qqmlexpression.sip
+│   │   │   │   ├── qqmlextensionplugin.sip
+│   │   │   │   ├── qqmlfileselector.sip
+│   │   │   │   ├── qqmlincubator.sip
+│   │   │   │   ├── qqmllist.sip
+│   │   │   │   ├── qqmlnetworkaccessmanagerfactory.sip
+│   │   │   │   ├── qqmlparserstatus.sip
+│   │   │   │   ├── qqmlproperty.sip
+│   │   │   │   ├── qqmlpropertymap.sip
+│   │   │   │   ├── qqmlpropertyvaluesource.sip
+│   │   │   │   ├── qqmlscriptstring.sip
+│   │   │   │   ├── QtQml.toml
+│   │   │   │   └── QtQmlmod.sip
+│   │   │   ├── QtQuick
+│   │   │   │   ├── qquickframebufferobject.sip
+│   │   │   │   ├── qquickimageprovider.sip
+│   │   │   │   ├── qquickitem.sip
+│   │   │   │   ├── qquickitemgrabresult.sip
+│   │   │   │   ├── qquickpainteditem.sip
+│   │   │   │   ├── qquickrendercontrol.sip
+│   │   │   │   ├── qquicktextdocument.sip
+│   │   │   │   ├── qquickview.sip
+│   │   │   │   ├── qquickwindow.sip
+│   │   │   │   ├── qsgabstractrenderer.sip
+│   │   │   │   ├── qsgengine.sip
+│   │   │   │   ├── qsgflatcolormaterial.sip
+│   │   │   │   ├── qsggeometry.sip
+│   │   │   │   ├── qsgimagenode.sip
+│   │   │   │   ├── qsgmaterial.sip
+│   │   │   │   ├── qsgmaterialrhishader.sip
+│   │   │   │   ├── qsgnode.sip
+│   │   │   │   ├── qsgrectanglenode.sip
+│   │   │   │   ├── qsgrendererinterface.sip
+│   │   │   │   ├── qsgrendernode.sip
+│   │   │   │   ├── qsgsimplerectnode.sip
+│   │   │   │   ├── qsgsimpletexturenode.sip
+│   │   │   │   ├── qsgtexture.sip
+│   │   │   │   ├── qsgtexturematerial.sip
+│   │   │   │   ├── qsgtextureprovider.sip
+│   │   │   │   ├── qsgvertexcolormaterial.sip
+│   │   │   │   ├── QtQuick.toml
+│   │   │   │   └── QtQuickmod.sip
+│   │   │   ├── QtQuick3D
+│   │   │   │   ├── qquick3d.sip
+│   │   │   │   ├── qquick3dgeometry.sip
+│   │   │   │   ├── qquick3dobject.sip
+│   │   │   │   ├── QtQuick3D.toml
+│   │   │   │   └── QtQuick3Dmod.sip
+│   │   │   ├── QtQuickWidgets
+│   │   │   │   ├── qquickwidget.sip
+│   │   │   │   ├── QtQuickWidgets.toml
+│   │   │   │   └── QtQuickWidgetsmod.sip
+│   │   │   ├── QtRemoteObjects
+│   │   │   │   ├── qremoteobjectabstractitemmodelreplica.sip
+│   │   │   │   ├── qremoteobjectdynamicreplica.sip
+│   │   │   │   ├── qremoteobjectnode.sip
+│   │   │   │   ├── qremoteobjectregistry.sip
+│   │   │   │   ├── qremoteobjectreplica.sip
+│   │   │   │   ├── qtremoteobjectglobal.sip
+│   │   │   │   ├── QtRemoteObjects.toml
+│   │   │   │   └── QtRemoteObjectsmod.sip
+│   │   │   ├── QtSensors
+│   │   │   │   ├── qaccelerometer.sip
+│   │   │   │   ├── qaltimeter.sip
+│   │   │   │   ├── qambientlightsensor.sip
+│   │   │   │   ├── qambienttemperaturesensor.sip
+│   │   │   │   ├── qcompass.sip
+│   │   │   │   ├── qdistancesensor.sip
+│   │   │   │   ├── qgyroscope.sip
+│   │   │   │   ├── qholstersensor.sip
+│   │   │   │   ├── qhumiditysensor.sip
+│   │   │   │   ├── qirproximitysensor.sip
+│   │   │   │   ├── qlidsensor.sip
+│   │   │   │   ├── qlightsensor.sip
+│   │   │   │   ├── qmagnetometer.sip
+│   │   │   │   ├── qorientationsensor.sip
+│   │   │   │   ├── qpressuresensor.sip
+│   │   │   │   ├── qproximitysensor.sip
+│   │   │   │   ├── qrotationsensor.sip
+│   │   │   │   ├── qsensor.sip
+│   │   │   │   ├── qtapsensor.sip
+│   │   │   │   ├── qtiltsensor.sip
+│   │   │   │   ├── QtSensors.toml
+│   │   │   │   └── QtSensorsmod.sip
+│   │   │   ├── QtSerialPort
+│   │   │   │   ├── qserialport.sip
+│   │   │   │   ├── qserialportinfo.sip
+│   │   │   │   ├── QtSerialPort.toml
+│   │   │   │   └── QtSerialPortmod.sip
+│   │   │   ├── QtSql
+│   │   │   │   ├── qsql.sip
+│   │   │   │   ├── qsqldatabase.sip
+│   │   │   │   ├── qsqldriver.sip
+│   │   │   │   ├── qsqlerror.sip
+│   │   │   │   ├── qsqlfield.sip
+│   │   │   │   ├── qsqlindex.sip
+│   │   │   │   ├── qsqlquery.sip
+│   │   │   │   ├── qsqlquerymodel.sip
+│   │   │   │   ├── qsqlrecord.sip
+│   │   │   │   ├── qsqlrelationaldelegate.sip
+│   │   │   │   ├── qsqlrelationaltablemodel.sip
+│   │   │   │   ├── qsqlresult.sip
+│   │   │   │   ├── qsqltablemodel.sip
+│   │   │   │   ├── QtSql.toml
+│   │   │   │   ├── qtsqlglobal.sip
+│   │   │   │   └── QtSqlmod.sip
+│   │   │   ├── QtSvg
+│   │   │   │   ├── qgraphicssvgitem.sip
+│   │   │   │   ├── qsvggenerator.sip
+│   │   │   │   ├── qsvgrenderer.sip
+│   │   │   │   ├── qsvgwidget.sip
+│   │   │   │   ├── QtSvg.toml
+│   │   │   │   └── QtSvgmod.sip
+│   │   │   ├── QtTest
+│   │   │   │   ├── qabstractitemmodeltester.sip
+│   │   │   │   ├── qsignalspy.sip
+│   │   │   │   ├── qtestcase.sip
+│   │   │   │   ├── qtestkeyboard.sip
+│   │   │   │   ├── qtestmouse.sip
+│   │   │   │   ├── qtestsystem.sip
+│   │   │   │   ├── qtesttouch.sip
+│   │   │   │   ├── QtTest.toml
+│   │   │   │   └── QtTestmod.sip
+│   │   │   ├── QtTextToSpeech
+│   │   │   │   ├── qtexttospeech.sip
+│   │   │   │   ├── QtTextToSpeech.toml
+│   │   │   │   ├── QtTextToSpeechmod.sip
+│   │   │   │   └── qvoice.sip
+│   │   │   ├── QtWebChannel
+│   │   │   │   ├── QtWebChannel.toml
+│   │   │   │   ├── QtWebChannelmod.sip
+│   │   │   │   ├── qwebchannel.sip
+│   │   │   │   └── qwebchannelabstracttransport.sip
+│   │   │   ├── QtWebSockets
+│   │   │   │   ├── qmaskgenerator.sip
+│   │   │   │   ├── QtWebSockets.toml
+│   │   │   │   ├── QtWebSocketsmod.sip
+│   │   │   │   ├── qwebsocket.sip
+│   │   │   │   ├── qwebsocketcorsauthenticator.sip
+│   │   │   │   ├── qwebsocketprotocol.sip
+│   │   │   │   └── qwebsocketserver.sip
+│   │   │   ├── QtWidgets
+│   │   │   │   ├── qabstractbutton.sip
+│   │   │   │   ├── qabstractitemdelegate.sip
+│   │   │   │   ├── qabstractitemview.sip
+│   │   │   │   ├── qabstractscrollarea.sip
+│   │   │   │   ├── qabstractslider.sip
+│   │   │   │   ├── qabstractspinbox.sip
+│   │   │   │   ├── qaction.sip
+│   │   │   │   ├── qactiongroup.sip
+│   │   │   │   ├── qapplication.sip
+│   │   │   │   ├── qboxlayout.sip
+│   │   │   │   ├── qbuttongroup.sip
+│   │   │   │   ├── qcalendarwidget.sip
+│   │   │   │   ├── qcheckbox.sip
+│   │   │   │   ├── qcolordialog.sip
+│   │   │   │   ├── qcolumnview.sip
+│   │   │   │   ├── qcombobox.sip
+│   │   │   │   ├── qcommandlinkbutton.sip
+│   │   │   │   ├── qcommonstyle.sip
+│   │   │   │   ├── qcompleter.sip
+│   │   │   │   ├── qdatawidgetmapper.sip
+│   │   │   │   ├── qdatetimeedit.sip
+│   │   │   │   ├── qdesktopwidget.sip
+│   │   │   │   ├── qdial.sip
+│   │   │   │   ├── qdialog.sip
+│   │   │   │   ├── qdialogbuttonbox.sip
+│   │   │   │   ├── qdirmodel.sip
+│   │   │   │   ├── qdockwidget.sip
+│   │   │   │   ├── qdrawutil.sip
+│   │   │   │   ├── qerrormessage.sip
+│   │   │   │   ├── qfiledialog.sip
+│   │   │   │   ├── qfileiconprovider.sip
+│   │   │   │   ├── qfilesystemmodel.sip
+│   │   │   │   ├── qfocusframe.sip
+│   │   │   │   ├── qfontcombobox.sip
+│   │   │   │   ├── qfontdialog.sip
+│   │   │   │   ├── qformlayout.sip
+│   │   │   │   ├── qframe.sip
+│   │   │   │   ├── qgesture.sip
+│   │   │   │   ├── qgesturerecognizer.sip
+│   │   │   │   ├── qgraphicsanchorlayout.sip
+│   │   │   │   ├── qgraphicseffect.sip
+│   │   │   │   ├── qgraphicsgridlayout.sip
+│   │   │   │   ├── qgraphicsitem.sip
+│   │   │   │   ├── qgraphicslayout.sip
+│   │   │   │   ├── qgraphicslayoutitem.sip
+│   │   │   │   ├── qgraphicslinearlayout.sip
+│   │   │   │   ├── qgraphicsproxywidget.sip
+│   │   │   │   ├── qgraphicsscene.sip
+│   │   │   │   ├── qgraphicssceneevent.sip
+│   │   │   │   ├── qgraphicstransform.sip
+│   │   │   │   ├── qgraphicsview.sip
+│   │   │   │   ├── qgraphicswidget.sip
+│   │   │   │   ├── qgridlayout.sip
+│   │   │   │   ├── qgroupbox.sip
+│   │   │   │   ├── qheaderview.sip
+│   │   │   │   ├── qinputdialog.sip
+│   │   │   │   ├── qitemdelegate.sip
+│   │   │   │   ├── qitemeditorfactory.sip
+│   │   │   │   ├── qkeyeventtransition.sip
+│   │   │   │   ├── qkeysequenceedit.sip
+│   │   │   │   ├── qlabel.sip
+│   │   │   │   ├── qlayout.sip
+│   │   │   │   ├── qlayoutitem.sip
+│   │   │   │   ├── qlcdnumber.sip
+│   │   │   │   ├── qlineedit.sip
+│   │   │   │   ├── qlistview.sip
+│   │   │   │   ├── qlistwidget.sip
+│   │   │   │   ├── qmaccocoaviewcontainer.sip
+│   │   │   │   ├── qmainwindow.sip
+│   │   │   │   ├── qmdiarea.sip
+│   │   │   │   ├── qmdisubwindow.sip
+│   │   │   │   ├── qmenu.sip
+│   │   │   │   ├── qmenubar.sip
+│   │   │   │   ├── qmessagebox.sip
+│   │   │   │   ├── qmouseeventtransition.sip
+│   │   │   │   ├── qopenglwidget.sip
+│   │   │   │   ├── qplaintextedit.sip
+│   │   │   │   ├── qprogressbar.sip
+│   │   │   │   ├── qprogressdialog.sip
+│   │   │   │   ├── qproxystyle.sip
+│   │   │   │   ├── qpushbutton.sip
+│   │   │   │   ├── qpywidgets_qlist.sip
+│   │   │   │   ├── qradiobutton.sip
+│   │   │   │   ├── qrubberband.sip
+│   │   │   │   ├── qscrollarea.sip
+│   │   │   │   ├── qscrollbar.sip
+│   │   │   │   ├── qscroller.sip
+│   │   │   │   ├── qscrollerproperties.sip
+│   │   │   │   ├── qshortcut.sip
+│   │   │   │   ├── qsizegrip.sip
+│   │   │   │   ├── qsizepolicy.sip
+│   │   │   │   ├── qslider.sip
+│   │   │   │   ├── qspinbox.sip
+│   │   │   │   ├── qsplashscreen.sip
+│   │   │   │   ├── qsplitter.sip
+│   │   │   │   ├── qstackedlayout.sip
+│   │   │   │   ├── qstackedwidget.sip
+│   │   │   │   ├── qstatusbar.sip
+│   │   │   │   ├── qstyle.sip
+│   │   │   │   ├── qstyleditemdelegate.sip
+│   │   │   │   ├── qstylefactory.sip
+│   │   │   │   ├── qstyleoption.sip
+│   │   │   │   ├── qstylepainter.sip
+│   │   │   │   ├── qsystemtrayicon.sip
+│   │   │   │   ├── qtabbar.sip
+│   │   │   │   ├── qtableview.sip
+│   │   │   │   ├── qtablewidget.sip
+│   │   │   │   ├── qtabwidget.sip
+│   │   │   │   ├── qtextbrowser.sip
+│   │   │   │   ├── qtextedit.sip
+│   │   │   │   ├── qtoolbar.sip
+│   │   │   │   ├── qtoolbox.sip
+│   │   │   │   ├── qtoolbutton.sip
+│   │   │   │   ├── qtooltip.sip
+│   │   │   │   ├── qtreeview.sip
+│   │   │   │   ├── qtreewidget.sip
+│   │   │   │   ├── qtreewidgetitemiterator.sip
+│   │   │   │   ├── QtWidgets.toml
+│   │   │   │   ├── QtWidgetsmod.sip
+│   │   │   │   ├── qundogroup.sip
+│   │   │   │   ├── qundostack.sip
+│   │   │   │   ├── qundoview.sip
+│   │   │   │   ├── qwhatsthis.sip
+│   │   │   │   ├── qwidget.sip
+│   │   │   │   ├── qwidgetaction.sip
+│   │   │   │   └── qwizard.sip
+│   │   │   ├── QtWinExtras
+│   │   │   │   ├── QtWinExtras.toml
+│   │   │   │   ├── QtWinExtrasmod.sip
+│   │   │   │   ├── qwinfunctions.sip
+│   │   │   │   ├── qwinjumplist.sip
+│   │   │   │   ├── qwinjumplistcategory.sip
+│   │   │   │   ├── qwinjumplistitem.sip
+│   │   │   │   ├── qwintaskbarbutton.sip
+│   │   │   │   ├── qwintaskbarprogress.sip
+│   │   │   │   ├── qwinthumbnailtoolbar.sip
+│   │   │   │   └── qwinthumbnailtoolbutton.sip
+│   │   │   ├── QtXml
+│   │   │   │   ├── qdom.sip
+│   │   │   │   ├── QtXml.toml
+│   │   │   │   ├── QtXmlmod.sip
+│   │   │   │   └── qxml.sip
+│   │   │   └── QtXmlPatterns
+│   │   │       ├── qabstractmessagehandler.sip
+│   │   │       ├── qabstracturiresolver.sip
+│   │   │       ├── qabstractxmlnodemodel.sip
+│   │   │       ├── qabstractxmlreceiver.sip
+│   │   │       ├── qsimplexmlnodemodel.sip
+│   │   │       ├── qsourcelocation.sip
+│   │   │       ├── QtXmlPatterns.toml
+│   │   │       ├── QtXmlPatternsmod.sip
+│   │   │       ├── qxmlformatter.sip
+│   │   │       ├── qxmlname.sip
+│   │   │       ├── qxmlnamepool.sip
+│   │   │       ├── qxmlquery.sip
+│   │   │       ├── qxmlresultitems.sip
+│   │   │       ├── qxmlschema.sip
+│   │   │       ├── qxmlschemavalidator.sip
+│   │   │       └── qxmlserializer.sip
+│   │   ├── Qt5
+│   │   │   ├── plugins
+│   │   │   │   ├── assetimporters
+│   │   │   │   │   ├── assimp.dll
+│   │   │   │   │   └── uip.dll
+│   │   │   │   ├── audio
+│   │   │   │   │   ├── qtaudio_wasapi.dll
+│   │   │   │   │   └── qtaudio_windows.dll
+│   │   │   │   ├── bearer
+│   │   │   │   │   └── qgenericbearer.dll
+│   │   │   │   ├── generic
+│   │   │   │   │   └── qtuiotouchplugin.dll
+│   │   │   │   ├── geometryloaders
+│   │   │   │   │   ├── defaultgeometryloader.dll
+│   │   │   │   │   └── gltfgeometryloader.dll
+│   │   │   │   ├── geoservices
+│   │   │   │   │   ├── qtgeoservices_esri.dll
+│   │   │   │   │   ├── qtgeoservices_itemsoverlay.dll
+│   │   │   │   │   ├── qtgeoservices_mapbox.dll
+│   │   │   │   │   ├── qtgeoservices_nokia.dll
+│   │   │   │   │   └── qtgeoservices_osm.dll
+│   │   │   │   ├── iconengines
+│   │   │   │   │   └── qsvgicon.dll
+│   │   │   │   ├── imageformats
+│   │   │   │   │   ├── qgif.dll
+│   │   │   │   │   ├── qicns.dll
+│   │   │   │   │   ├── qico.dll
+│   │   │   │   │   ├── qjpeg.dll
+│   │   │   │   │   ├── qsvg.dll
+│   │   │   │   │   ├── qtga.dll
+│   │   │   │   │   ├── qtiff.dll
+│   │   │   │   │   ├── qwbmp.dll
+│   │   │   │   │   └── qwebp.dll
+│   │   │   │   ├── mediaservice
+│   │   │   │   │   ├── dsengine.dll
+│   │   │   │   │   ├── qtmedia_audioengine.dll
+│   │   │   │   │   └── wmfengine.dll
+│   │   │   │   ├── platforms
+│   │   │   │   │   ├── qminimal.dll
+│   │   │   │   │   ├── qoffscreen.dll
+│   │   │   │   │   ├── qwebgl.dll
+│   │   │   │   │   └── qwindows.dll
+│   │   │   │   ├── platformthemes
+│   │   │   │   │   └── qxdgdesktopportal.dll
+│   │   │   │   ├── playlistformats
+│   │   │   │   │   └── qtmultimedia_m3u.dll
+│   │   │   │   ├── position
+│   │   │   │   │   ├── qtposition_positionpoll.dll
+│   │   │   │   │   ├── qtposition_serialnmea.dll
+│   │   │   │   │   └── qtposition_winrt.dll
+│   │   │   │   ├── printsupport
+│   │   │   │   │   └── windowsprintersupport.dll
+│   │   │   │   ├── renderers
+│   │   │   │   │   └── openglrenderer.dll
+│   │   │   │   ├── sceneparsers
+│   │   │   │   │   ├── gltfsceneexport.dll
+│   │   │   │   │   └── gltfsceneimport.dll
+│   │   │   │   ├── sensorgestures
+│   │   │   │   │   ├── qtsensorgestures_plugin.dll
+│   │   │   │   │   └── qtsensorgestures_shakeplugin.dll
+│   │   │   │   ├── sensors
+│   │   │   │   │   └── qtsensors_generic.dll
+│   │   │   │   ├── sqldrivers
+│   │   │   │   │   ├── qsqlite.dll
+│   │   │   │   │   ├── qsqlodbc.dll
+│   │   │   │   │   └── qsqlpsql.dll
+│   │   │   │   ├── styles
+│   │   │   │   │   └── qwindowsvistastyle.dll
+│   │   │   │   ├── texttospeech
+│   │   │   │   │   └── qtexttospeech_sapi.dll
+│   │   │   │   └── webview
+│   │   │   │       └── qtwebview_webengine.dll
+│   │   │   ├── qml
+│   │   │   │   ├── Qt
+│   │   │   │   │   ├── labs
+│   │   │   │   │   │   ├── animation
+│   │   │   │   │   │   │   ├── labsanimationplugin.dll
+│   │   │   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   │   │   └── qmldir
+│   │   │   │   │   │   ├── calendar
+│   │   │   │   │   │   │   ├── DayOfWeekRow.qml
+│   │   │   │   │   │   │   ├── DayOfWeekRow.qmlc
+│   │   │   │   │   │   │   ├── MonthGrid.qml
+│   │   │   │   │   │   │   ├── MonthGrid.qmlc
+│   │   │   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   │   │   ├── qmldir
+│   │   │   │   │   │   │   ├── qtlabscalendarplugin.dll
+│   │   │   │   │   │   │   ├── WeekNumberColumn.qml
+│   │   │   │   │   │   │   └── WeekNumberColumn.qmlc
+│   │   │   │   │   │   ├── folderlistmodel
+│   │   │   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   │   │   ├── qmldir
+│   │   │   │   │   │   │   └── qmlfolderlistmodelplugin.dll
+│   │   │   │   │   │   ├── location
+│   │   │   │   │   │   │   ├── locationlabsplugin.dll
+│   │   │   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   │   │   └── qmldir
+│   │   │   │   │   │   ├── platform
+│   │   │   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   │   │   ├── qmldir
+│   │   │   │   │   │   │   └── qtlabsplatformplugin.dll
+│   │   │   │   │   │   ├── qmlmodels
+│   │   │   │   │   │   │   ├── labsmodelsplugin.dll
+│   │   │   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   │   │   └── qmldir
+│   │   │   │   │   │   ├── settings
+│   │   │   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   │   │   ├── qmldir
+│   │   │   │   │   │   │   └── qmlsettingsplugin.dll
+│   │   │   │   │   │   ├── sharedimage
+│   │   │   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   │   │   ├── qmldir
+│   │   │   │   │   │   │   └── sharedimageplugin.dll
+│   │   │   │   │   │   └── wavefrontmesh
+│   │   │   │   │   │       ├── plugins.qmltypes
+│   │   │   │   │   │       ├── qmldir
+│   │   │   │   │   │       └── qmlwavefrontmeshplugin.dll
+│   │   │   │   │   ├── test
+│   │   │   │   │   │   └── qtestroot
+│   │   │   │   │   │       ├── plugins.qmltypes
+│   │   │   │   │   │       └── qmldir
+│   │   │   │   │   └── WebSockets
+│   │   │   │   │       └── qmldir
+│   │   │   │   ├── QtBluetooth
+│   │   │   │   │   ├── declarative_bluetooth.dll
+│   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   └── qmldir
+│   │   │   │   ├── QtGraphicalEffects
+│   │   │   │   │   ├── private
+│   │   │   │   │   │   ├── DropShadowBase.qml
+│   │   │   │   │   │   ├── DropShadowBase.qmlc
+│   │   │   │   │   │   ├── FastGlow.qml
+│   │   │   │   │   │   ├── FastGlow.qmlc
+│   │   │   │   │   │   ├── FastInnerShadow.qml
+│   │   │   │   │   │   ├── FastInnerShadow.qmlc
+│   │   │   │   │   │   ├── FastMaskedBlur.qml
+│   │   │   │   │   │   ├── FastMaskedBlur.qmlc
+│   │   │   │   │   │   ├── GaussianDirectionalBlur.qml
+│   │   │   │   │   │   ├── GaussianDirectionalBlur.qmlc
+│   │   │   │   │   │   ├── GaussianGlow.qml
+│   │   │   │   │   │   ├── GaussianGlow.qmlc
+│   │   │   │   │   │   ├── GaussianInnerShadow.qml
+│   │   │   │   │   │   ├── GaussianInnerShadow.qmlc
+│   │   │   │   │   │   ├── GaussianMaskedBlur.qml
+│   │   │   │   │   │   ├── GaussianMaskedBlur.qmlc
+│   │   │   │   │   │   ├── qmldir
+│   │   │   │   │   │   └── qtgraphicaleffectsprivate.dll
+│   │   │   │   │   ├── Blend.qml
+│   │   │   │   │   ├── BrightnessContrast.qml
+│   │   │   │   │   ├── Colorize.qml
+│   │   │   │   │   ├── ColorOverlay.qml
+│   │   │   │   │   ├── ConicalGradient.qml
+│   │   │   │   │   ├── Desaturate.qml
+│   │   │   │   │   ├── DirectionalBlur.qml
+│   │   │   │   │   ├── Displace.qml
+│   │   │   │   │   ├── DropShadow.qml
+│   │   │   │   │   ├── FastBlur.qml
+│   │   │   │   │   ├── GammaAdjust.qml
+│   │   │   │   │   ├── GaussianBlur.qml
+│   │   │   │   │   ├── Glow.qml
+│   │   │   │   │   ├── HueSaturation.qml
+│   │   │   │   │   ├── InnerShadow.qml
+│   │   │   │   │   ├── LevelAdjust.qml
+│   │   │   │   │   ├── LinearGradient.qml
+│   │   │   │   │   ├── MaskedBlur.qml
+│   │   │   │   │   ├── OpacityMask.qml
+│   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   ├── qmldir
+│   │   │   │   │   ├── qtgraphicaleffectsplugin.dll
+│   │   │   │   │   ├── RadialBlur.qml
+│   │   │   │   │   ├── RadialGradient.qml
+│   │   │   │   │   ├── RectangularGlow.qml
+│   │   │   │   │   ├── RecursiveBlur.qml
+│   │   │   │   │   ├── ThresholdMask.qml
+│   │   │   │   │   └── ZoomBlur.qml
+│   │   │   │   ├── QtLocation
+│   │   │   │   │   ├── declarative_location.dll
+│   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   └── qmldir
+│   │   │   │   ├── QtMultimedia
+│   │   │   │   │   ├── declarative_multimedia.dll
+│   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   ├── qmldir
+│   │   │   │   │   └── Video.qml
+│   │   │   │   ├── QtNfc
+│   │   │   │   │   ├── declarative_nfc.dll
+│   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   └── qmldir
+│   │   │   │   ├── QtPositioning
+│   │   │   │   │   ├── declarative_positioning.dll
+│   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   └── qmldir
+│   │   │   │   ├── QtQml
+│   │   │   │   │   ├── Models.2
+│   │   │   │   │   │   ├── modelsplugin.dll
+│   │   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   │   └── qmldir
+│   │   │   │   │   ├── RemoteObjects
+│   │   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   │   ├── qmldir
+│   │   │   │   │   │   └── qtqmlremoteobjects.dll
+│   │   │   │   │   ├── StateMachine
+│   │   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   │   ├── qmldir
+│   │   │   │   │   │   └── qtqmlstatemachine.dll
+│   │   │   │   │   ├── WorkerScript.2
+│   │   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   │   ├── qmldir
+│   │   │   │   │   │   └── workerscriptplugin.dll
+│   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   ├── qmldir
+│   │   │   │   │   └── qmlplugin.dll
+│   │   │   │   ├── QtQuick
+│   │   │   │   │   ├── Controls
+│   │   │   │   │   │   ├── Private
+│   │   │   │   │   │   │   ├── AbstractCheckable.qml
+│   │   │   │   │   │   │   ├── AbstractCheckable.qmlc
+│   │   │   │   │   │   │   ├── BasicButton.qml
+│   │   │   │   │   │   │   ├── BasicButton.qmlc
+│   │   │   │   │   │   │   ├── BasicTableView.qml
+│   │   │   │   │   │   │   ├── BasicTableView.qmlc
+│   │   │   │   │   │   │   ├── CalendarHeaderModel.qml
+│   │   │   │   │   │   │   ├── CalendarHeaderModel.qmlc
+│   │   │   │   │   │   │   ├── CalendarUtils.js
+│   │   │   │   │   │   │   ├── CalendarUtils.jsc
+│   │   │   │   │   │   │   ├── ColumnMenuContent.qml
+│   │   │   │   │   │   │   ├── ColumnMenuContent.qmlc
+│   │   │   │   │   │   │   ├── ContentItem.qml
+│   │   │   │   │   │   │   ├── ContentItem.qmlc
+│   │   │   │   │   │   │   ├── Control.qml
+│   │   │   │   │   │   │   ├── Control.qmlc
+│   │   │   │   │   │   │   ├── EditMenu.qml
+│   │   │   │   │   │   │   ├── EditMenu.qmlc
+│   │   │   │   │   │   │   ├── EditMenu_base.qml
+│   │   │   │   │   │   │   ├── EditMenu_base.qmlc
+│   │   │   │   │   │   │   ├── FastGlow.qml
+│   │   │   │   │   │   │   ├── FastGlow.qmlc
+│   │   │   │   │   │   │   ├── FocusFrame.qml
+│   │   │   │   │   │   │   ├── FocusFrame.qmlc
+│   │   │   │   │   │   │   ├── HoverButton.qml
+│   │   │   │   │   │   │   ├── HoverButton.qmlc
+│   │   │   │   │   │   │   ├── MenuContentItem.qml
+│   │   │   │   │   │   │   ├── MenuContentItem.qmlc
+│   │   │   │   │   │   │   ├── MenuContentScroller.qml
+│   │   │   │   │   │   │   ├── MenuContentScroller.qmlc
+│   │   │   │   │   │   │   ├── MenuItemSubControls.qml
+│   │   │   │   │   │   │   ├── MenuItemSubControls.qmlc
+│   │   │   │   │   │   │   ├── ModalPopupBehavior.qml
+│   │   │   │   │   │   │   ├── ModalPopupBehavior.qmlc
+│   │   │   │   │   │   │   ├── qmldir
+│   │   │   │   │   │   │   ├── ScrollBar.qml
+│   │   │   │   │   │   │   ├── ScrollBar.qmlc
+│   │   │   │   │   │   │   ├── ScrollViewHelper.qml
+│   │   │   │   │   │   │   ├── ScrollViewHelper.qmlc
+│   │   │   │   │   │   │   ├── SourceProxy.qml
+│   │   │   │   │   │   │   ├── SourceProxy.qmlc
+│   │   │   │   │   │   │   ├── StackView.js
+│   │   │   │   │   │   │   ├── StackView.jsc
+│   │   │   │   │   │   │   ├── StackViewSlideDelegate.qml
+│   │   │   │   │   │   │   ├── StackViewSlideDelegate.qmlc
+│   │   │   │   │   │   │   ├── style.js
+│   │   │   │   │   │   │   ├── style.jsc
+│   │   │   │   │   │   │   ├── Style.qml
+│   │   │   │   │   │   │   ├── Style.qmlc
+│   │   │   │   │   │   │   ├── SystemPaletteSingleton.qml
+│   │   │   │   │   │   │   ├── SystemPaletteSingleton.qmlc
+│   │   │   │   │   │   │   ├── TabBar.qml
+│   │   │   │   │   │   │   ├── TabBar.qmlc
+│   │   │   │   │   │   │   ├── TableViewItemDelegateLoader.qml
+│   │   │   │   │   │   │   ├── TableViewItemDelegateLoader.qmlc
+│   │   │   │   │   │   │   ├── TableViewSelection.qml
+│   │   │   │   │   │   │   ├── TableViewSelection.qmlc
+│   │   │   │   │   │   │   ├── TextHandle.qml
+│   │   │   │   │   │   │   ├── TextHandle.qmlc
+│   │   │   │   │   │   │   ├── TextInputWithHandles.qml
+│   │   │   │   │   │   │   ├── TextInputWithHandles.qmlc
+│   │   │   │   │   │   │   ├── TextSingleton.qml
+│   │   │   │   │   │   │   ├── TextSingleton.qmlc
+│   │   │   │   │   │   │   ├── ToolMenuButton.qml
+│   │   │   │   │   │   │   ├── ToolMenuButton.qmlc
+│   │   │   │   │   │   │   ├── TreeViewItemDelegateLoader.qml
+│   │   │   │   │   │   │   └── TreeViewItemDelegateLoader.qmlc
+│   │   │   │   │   │   ├── Styles
+│   │   │   │   │   │   │   ├── Base
+│   │   │   │   │   │   │   │   ├── images
+│   │   │   │   │   │   │   │   │   ├── arrow-down.png
+│   │   │   │   │   │   │   │   │   ├── arrow-down@2x.png
+│   │   │   │   │   │   │   │   │   ├── arrow-left.png
+│   │   │   │   │   │   │   │   │   ├── arrow-left@2x.png
+│   │   │   │   │   │   │   │   │   ├── arrow-right.png
+│   │   │   │   │   │   │   │   │   ├── arrow-right@2x.png
+│   │   │   │   │   │   │   │   │   ├── arrow-up.png
+│   │   │   │   │   │   │   │   │   ├── arrow-up@2x.png
+│   │   │   │   │   │   │   │   │   ├── button.png
+│   │   │   │   │   │   │   │   │   ├── button_down.png
+│   │   │   │   │   │   │   │   │   ├── check.png
+│   │   │   │   │   │   │   │   │   ├── check@2x.png
+│   │   │   │   │   │   │   │   │   ├── editbox.png
+│   │   │   │   │   │   │   │   │   ├── focusframe.png
+│   │   │   │   │   │   │   │   │   ├── groupbox.png
+│   │   │   │   │   │   │   │   │   ├── header.png
+│   │   │   │   │   │   │   │   │   ├── knob.png
+│   │   │   │   │   │   │   │   │   ├── leftanglearrow.png
+│   │   │   │   │   │   │   │   │   ├── needle.png
+│   │   │   │   │   │   │   │   │   ├── progress-indeterminate.png
+│   │   │   │   │   │   │   │   │   ├── rightanglearrow.png
+│   │   │   │   │   │   │   │   │   ├── scrollbar-handle-horizontal.png
+│   │   │   │   │   │   │   │   │   ├── scrollbar-handle-transient.png
+│   │   │   │   │   │   │   │   │   ├── scrollbar-handle-vertical.png
+│   │   │   │   │   │   │   │   │   ├── slider-groove.png
+│   │   │   │   │   │   │   │   │   ├── slider-handle.png
+│   │   │   │   │   │   │   │   │   ├── spinner_large.png
+│   │   │   │   │   │   │   │   │   ├── spinner_medium.png
+│   │   │   │   │   │   │   │   │   ├── spinner_small.png
+│   │   │   │   │   │   │   │   │   ├── tab.png
+│   │   │   │   │   │   │   │   │   └── tab_selected.png
+│   │   │   │   │   │   │   │   ├── ApplicationWindowStyle.qml
+│   │   │   │   │   │   │   │   ├── ApplicationWindowStyle.qmlc
+│   │   │   │   │   │   │   │   ├── BasicTableViewStyle.qml
+│   │   │   │   │   │   │   │   ├── BasicTableViewStyle.qmlc
+│   │   │   │   │   │   │   │   ├── BusyIndicatorStyle.qml
+│   │   │   │   │   │   │   │   ├── BusyIndicatorStyle.qmlc
+│   │   │   │   │   │   │   │   ├── ButtonStyle.qml
+│   │   │   │   │   │   │   │   ├── ButtonStyle.qmlc
+│   │   │   │   │   │   │   │   ├── CalendarStyle.qml
+│   │   │   │   │   │   │   │   ├── CalendarStyle.qmlc
+│   │   │   │   │   │   │   │   ├── CheckBoxStyle.qml
+│   │   │   │   │   │   │   │   ├── CheckBoxStyle.qmlc
+│   │   │   │   │   │   │   │   ├── CircularButtonStyle.qml
+│   │   │   │   │   │   │   │   ├── CircularButtonStyle.qmlc
+│   │   │   │   │   │   │   │   ├── CircularGaugeStyle.qml
+│   │   │   │   │   │   │   │   ├── CircularGaugeStyle.qmlc
+│   │   │   │   │   │   │   │   ├── CircularTickmarkLabelStyle.qml
+│   │   │   │   │   │   │   │   ├── CircularTickmarkLabelStyle.qmlc
+│   │   │   │   │   │   │   │   ├── ComboBoxStyle.qml
+│   │   │   │   │   │   │   │   ├── ComboBoxStyle.qmlc
+│   │   │   │   │   │   │   │   ├── CommonStyleHelper.qml
+│   │   │   │   │   │   │   │   ├── CommonStyleHelper.qmlc
+│   │   │   │   │   │   │   │   ├── DelayButtonStyle.qml
+│   │   │   │   │   │   │   │   ├── DelayButtonStyle.qmlc
+│   │   │   │   │   │   │   │   ├── DialStyle.qml
+│   │   │   │   │   │   │   │   ├── DialStyle.qmlc
+│   │   │   │   │   │   │   │   ├── FocusFrameStyle.qml
+│   │   │   │   │   │   │   │   ├── FocusFrameStyle.qmlc
+│   │   │   │   │   │   │   │   ├── GaugeStyle.qml
+│   │   │   │   │   │   │   │   ├── GaugeStyle.qmlc
+│   │   │   │   │   │   │   │   ├── GroupBoxStyle.qml
+│   │   │   │   │   │   │   │   ├── GroupBoxStyle.qmlc
+│   │   │   │   │   │   │   │   ├── HandleStyle.qml
+│   │   │   │   │   │   │   │   ├── HandleStyle.qmlc
+│   │   │   │   │   │   │   │   ├── HandleStyleHelper.qml
+│   │   │   │   │   │   │   │   ├── HandleStyleHelper.qmlc
+│   │   │   │   │   │   │   │   ├── MenuBarStyle.qml
+│   │   │   │   │   │   │   │   ├── MenuBarStyle.qmlc
+│   │   │   │   │   │   │   │   ├── MenuStyle.qml
+│   │   │   │   │   │   │   │   ├── MenuStyle.qmlc
+│   │   │   │   │   │   │   │   ├── PieMenuStyle.qml
+│   │   │   │   │   │   │   │   ├── PieMenuStyle.qmlc
+│   │   │   │   │   │   │   │   ├── ProgressBarStyle.qml
+│   │   │   │   │   │   │   │   ├── ProgressBarStyle.qmlc
+│   │   │   │   │   │   │   │   ├── RadioButtonStyle.qml
+│   │   │   │   │   │   │   │   ├── RadioButtonStyle.qmlc
+│   │   │   │   │   │   │   │   ├── ScrollViewStyle.qml
+│   │   │   │   │   │   │   │   ├── ScrollViewStyle.qmlc
+│   │   │   │   │   │   │   │   ├── SliderStyle.qml
+│   │   │   │   │   │   │   │   ├── SliderStyle.qmlc
+│   │   │   │   │   │   │   │   ├── SpinBoxStyle.qml
+│   │   │   │   │   │   │   │   ├── SpinBoxStyle.qmlc
+│   │   │   │   │   │   │   │   ├── StatusBarStyle.qml
+│   │   │   │   │   │   │   │   ├── StatusBarStyle.qmlc
+│   │   │   │   │   │   │   │   ├── StatusIndicatorStyle.qml
+│   │   │   │   │   │   │   │   ├── StatusIndicatorStyle.qmlc
+│   │   │   │   │   │   │   │   ├── SwitchStyle.qml
+│   │   │   │   │   │   │   │   ├── SwitchStyle.qmlc
+│   │   │   │   │   │   │   │   ├── TableViewStyle.qml
+│   │   │   │   │   │   │   │   ├── TableViewStyle.qmlc
+│   │   │   │   │   │   │   │   ├── TabViewStyle.qml
+│   │   │   │   │   │   │   │   ├── TabViewStyle.qmlc
+│   │   │   │   │   │   │   │   ├── TextAreaStyle.qml
+│   │   │   │   │   │   │   │   ├── TextAreaStyle.qmlc
+│   │   │   │   │   │   │   │   ├── TextFieldStyle.qml
+│   │   │   │   │   │   │   │   ├── TextFieldStyle.qmlc
+│   │   │   │   │   │   │   │   ├── ToggleButtonStyle.qml
+│   │   │   │   │   │   │   │   ├── ToggleButtonStyle.qmlc
+│   │   │   │   │   │   │   │   ├── ToolBarStyle.qml
+│   │   │   │   │   │   │   │   ├── ToolBarStyle.qmlc
+│   │   │   │   │   │   │   │   ├── ToolButtonStyle.qml
+│   │   │   │   │   │   │   │   ├── ToolButtonStyle.qmlc
+│   │   │   │   │   │   │   │   ├── TreeViewStyle.qml
+│   │   │   │   │   │   │   │   ├── TreeViewStyle.qmlc
+│   │   │   │   │   │   │   │   ├── TumblerStyle.qml
+│   │   │   │   │   │   │   │   └── TumblerStyle.qmlc
+│   │   │   │   │   │   │   ├── Desktop
+│   │   │   │   │   │   │   │   ├── ApplicationWindowStyle.qml
+│   │   │   │   │   │   │   │   ├── ApplicationWindowStyle.qmlc
+│   │   │   │   │   │   │   │   ├── BusyIndicatorStyle.qml
+│   │   │   │   │   │   │   │   ├── BusyIndicatorStyle.qmlc
+│   │   │   │   │   │   │   │   ├── ButtonStyle.qml
+│   │   │   │   │   │   │   │   ├── ButtonStyle.qmlc
+│   │   │   │   │   │   │   │   ├── CalendarStyle.qml
+│   │   │   │   │   │   │   │   ├── CalendarStyle.qmlc
+│   │   │   │   │   │   │   │   ├── CheckBoxStyle.qml
+│   │   │   │   │   │   │   │   ├── CheckBoxStyle.qmlc
+│   │   │   │   │   │   │   │   ├── ComboBoxStyle.qml
+│   │   │   │   │   │   │   │   ├── ComboBoxStyle.qmlc
+│   │   │   │   │   │   │   │   ├── FocusFrameStyle.qml
+│   │   │   │   │   │   │   │   ├── FocusFrameStyle.qmlc
+│   │   │   │   │   │   │   │   ├── GroupBoxStyle.qml
+│   │   │   │   │   │   │   │   ├── GroupBoxStyle.qmlc
+│   │   │   │   │   │   │   │   ├── MenuBarStyle.qml
+│   │   │   │   │   │   │   │   ├── MenuBarStyle.qmlc
+│   │   │   │   │   │   │   │   ├── MenuStyle.qml
+│   │   │   │   │   │   │   │   ├── MenuStyle.qmlc
+│   │   │   │   │   │   │   │   ├── ProgressBarStyle.qml
+│   │   │   │   │   │   │   │   ├── ProgressBarStyle.qmlc
+│   │   │   │   │   │   │   │   ├── qmldir
+│   │   │   │   │   │   │   │   ├── RadioButtonStyle.qml
+│   │   │   │   │   │   │   │   ├── RadioButtonStyle.qmlc
+│   │   │   │   │   │   │   │   ├── RowItemSingleton.qml
+│   │   │   │   │   │   │   │   ├── RowItemSingleton.qmlc
+│   │   │   │   │   │   │   │   ├── ScrollViewStyle.qml
+│   │   │   │   │   │   │   │   ├── ScrollViewStyle.qmlc
+│   │   │   │   │   │   │   │   ├── SliderStyle.qml
+│   │   │   │   │   │   │   │   ├── SliderStyle.qmlc
+│   │   │   │   │   │   │   │   ├── SpinBoxStyle.qml
+│   │   │   │   │   │   │   │   ├── SpinBoxStyle.qmlc
+│   │   │   │   │   │   │   │   ├── StatusBarStyle.qml
+│   │   │   │   │   │   │   │   ├── StatusBarStyle.qmlc
+│   │   │   │   │   │   │   │   ├── SwitchStyle.qml
+│   │   │   │   │   │   │   │   ├── SwitchStyle.qmlc
+│   │   │   │   │   │   │   │   ├── TableViewStyle.qml
+│   │   │   │   │   │   │   │   ├── TableViewStyle.qmlc
+│   │   │   │   │   │   │   │   ├── TabViewStyle.qml
+│   │   │   │   │   │   │   │   ├── TabViewStyle.qmlc
+│   │   │   │   │   │   │   │   ├── TextAreaStyle.qml
+│   │   │   │   │   │   │   │   ├── TextAreaStyle.qmlc
+│   │   │   │   │   │   │   │   ├── TextFieldStyle.qml
+│   │   │   │   │   │   │   │   ├── TextFieldStyle.qmlc
+│   │   │   │   │   │   │   │   ├── ToolBarStyle.qml
+│   │   │   │   │   │   │   │   ├── ToolBarStyle.qmlc
+│   │   │   │   │   │   │   │   ├── ToolButtonStyle.qml
+│   │   │   │   │   │   │   │   ├── ToolButtonStyle.qmlc
+│   │   │   │   │   │   │   │   ├── TreeViewStyle.qml
+│   │   │   │   │   │   │   │   └── TreeViewStyle.qmlc
+│   │   │   │   │   │   │   ├── Flat
+│   │   │   │   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   │   │   │   ├── qmldir
+│   │   │   │   │   │   │   │   └── qtquickextrasflatplugin.dll
+│   │   │   │   │   │   │   └── qmldir
+│   │   │   │   │   │   ├── ApplicationWindow.qml
+│   │   │   │   │   │   ├── ApplicationWindow.qmlc
+│   │   │   │   │   │   ├── BusyIndicator.qml
+│   │   │   │   │   │   ├── BusyIndicator.qmlc
+│   │   │   │   │   │   ├── Button.qml
+│   │   │   │   │   │   ├── Button.qmlc
+│   │   │   │   │   │   ├── Calendar.qml
+│   │   │   │   │   │   ├── Calendar.qmlc
+│   │   │   │   │   │   ├── CheckBox.qml
+│   │   │   │   │   │   ├── CheckBox.qmlc
+│   │   │   │   │   │   ├── ComboBox.qml
+│   │   │   │   │   │   ├── ComboBox.qmlc
+│   │   │   │   │   │   ├── GroupBox.qml
+│   │   │   │   │   │   ├── GroupBox.qmlc
+│   │   │   │   │   │   ├── Label.qml
+│   │   │   │   │   │   ├── Label.qmlc
+│   │   │   │   │   │   ├── Menu.qml
+│   │   │   │   │   │   ├── Menu.qmlc
+│   │   │   │   │   │   ├── MenuBar.qml
+│   │   │   │   │   │   ├── MenuBar.qmlc
+│   │   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   │   ├── ProgressBar.qml
+│   │   │   │   │   │   ├── ProgressBar.qmlc
+│   │   │   │   │   │   ├── qmldir
+│   │   │   │   │   │   ├── qtquickcontrolsplugin.dll
+│   │   │   │   │   │   ├── RadioButton.qml
+│   │   │   │   │   │   ├── RadioButton.qmlc
+│   │   │   │   │   │   ├── ScrollView.qml
+│   │   │   │   │   │   ├── ScrollView.qmlc
+│   │   │   │   │   │   ├── Slider.qml
+│   │   │   │   │   │   ├── Slider.qmlc
+│   │   │   │   │   │   ├── SpinBox.qml
+│   │   │   │   │   │   ├── SpinBox.qmlc
+│   │   │   │   │   │   ├── SplitView.qml
+│   │   │   │   │   │   ├── SplitView.qmlc
+│   │   │   │   │   │   ├── StackView.qml
+│   │   │   │   │   │   ├── StackView.qmlc
+│   │   │   │   │   │   ├── StackViewDelegate.qml
+│   │   │   │   │   │   ├── StackViewDelegate.qmlc
+│   │   │   │   │   │   ├── StackViewTransition.qml
+│   │   │   │   │   │   ├── StackViewTransition.qmlc
+│   │   │   │   │   │   ├── StatusBar.qml
+│   │   │   │   │   │   ├── StatusBar.qmlc
+│   │   │   │   │   │   ├── Switch.qml
+│   │   │   │   │   │   ├── Switch.qmlc
+│   │   │   │   │   │   ├── Tab.qml
+│   │   │   │   │   │   ├── Tab.qmlc
+│   │   │   │   │   │   ├── TableView.qml
+│   │   │   │   │   │   ├── TableView.qmlc
+│   │   │   │   │   │   ├── TableViewColumn.qml
+│   │   │   │   │   │   ├── TableViewColumn.qmlc
+│   │   │   │   │   │   ├── TabView.qml
+│   │   │   │   │   │   ├── TabView.qmlc
+│   │   │   │   │   │   ├── TextArea.qml
+│   │   │   │   │   │   ├── TextArea.qmlc
+│   │   │   │   │   │   ├── TextField.qml
+│   │   │   │   │   │   ├── TextField.qmlc
+│   │   │   │   │   │   ├── ToolBar.qml
+│   │   │   │   │   │   ├── ToolBar.qmlc
+│   │   │   │   │   │   ├── ToolButton.qml
+│   │   │   │   │   │   ├── ToolButton.qmlc
+│   │   │   │   │   │   ├── TreeView.qml
+│   │   │   │   │   │   └── TreeView.qmlc
+│   │   │   │   │   ├── Controls.2
+│   │   │   │   │   │   ├── designer
+│   │   │   │   │   │   │   ├── images
+│   │   │   │   │   │   │   │   ├── busyindicator-icon.png
+│   │   │   │   │   │   │   │   ├── busyindicator-icon16.png
+│   │   │   │   │   │   │   │   ├── busyindicator-icon@2x.png
+│   │   │   │   │   │   │   │   ├── button-icon.png
+│   │   │   │   │   │   │   │   ├── button-icon16.png
+│   │   │   │   │   │   │   │   ├── button-icon@2x.png
+│   │   │   │   │   │   │   │   ├── checkbox-icon.png
+│   │   │   │   │   │   │   │   ├── checkbox-icon16.png
+│   │   │   │   │   │   │   │   ├── checkbox-icon@2x.png
+│   │   │   │   │   │   │   │   ├── combobox-icon.png
+│   │   │   │   │   │   │   │   ├── combobox-icon16.png
+│   │   │   │   │   │   │   │   ├── combobox-icon@2x.png
+│   │   │   │   │   │   │   │   ├── delaybutton-icon.png
+│   │   │   │   │   │   │   │   ├── delaybutton-icon16.png
+│   │   │   │   │   │   │   │   ├── delaybutton-icon@2x.png
+│   │   │   │   │   │   │   │   ├── dial-icon.png
+│   │   │   │   │   │   │   │   ├── dial-icon16.png
+│   │   │   │   │   │   │   │   ├── dial-icon@2x.png
+│   │   │   │   │   │   │   │   ├── frame-icon.png
+│   │   │   │   │   │   │   │   ├── frame-icon16.png
+│   │   │   │   │   │   │   │   ├── frame-icon@2x.png
+│   │   │   │   │   │   │   │   ├── groupbox-icon.png
+│   │   │   │   │   │   │   │   ├── groupbox-icon16.png
+│   │   │   │   │   │   │   │   ├── groupbox-icon@2x.png
+│   │   │   │   │   │   │   │   ├── itemdelegate-icon.png
+│   │   │   │   │   │   │   │   ├── itemdelegate-icon16.png
+│   │   │   │   │   │   │   │   ├── itemdelegate-icon@2x.png
+│   │   │   │   │   │   │   │   ├── label-icon.png
+│   │   │   │   │   │   │   │   ├── label-icon16.png
+│   │   │   │   │   │   │   │   ├── label-icon@2x.png
+│   │   │   │   │   │   │   │   ├── page-icon.png
+│   │   │   │   │   │   │   │   ├── page-icon16.png
+│   │   │   │   │   │   │   │   ├── page-icon@2x.png
+│   │   │   │   │   │   │   │   ├── pageindicator-icon.png
+│   │   │   │   │   │   │   │   ├── pageindicator-icon16.png
+│   │   │   │   │   │   │   │   ├── pageindicator-icon@2x.png
+│   │   │   │   │   │   │   │   ├── pane-icon.png
+│   │   │   │   │   │   │   │   ├── pane-icon16.png
+│   │   │   │   │   │   │   │   ├── pane-icon@2x.png
+│   │   │   │   │   │   │   │   ├── progressbar-icon.png
+│   │   │   │   │   │   │   │   ├── progressbar-icon16.png
+│   │   │   │   │   │   │   │   ├── progressbar-icon@2x.png
+│   │   │   │   │   │   │   │   ├── radiobutton-icon.png
+│   │   │   │   │   │   │   │   ├── radiobutton-icon16.png
+│   │   │   │   │   │   │   │   ├── radiobutton-icon@2x.png
+│   │   │   │   │   │   │   │   ├── rangeslider-icon.png
+│   │   │   │   │   │   │   │   ├── rangeslider-icon16.png
+│   │   │   │   │   │   │   │   ├── rangeslider-icon@2x.png
+│   │   │   │   │   │   │   │   ├── roundbutton-icon.png
+│   │   │   │   │   │   │   │   ├── roundbutton-icon16.png
+│   │   │   │   │   │   │   │   ├── roundbutton-icon@2x.png
+│   │   │   │   │   │   │   │   ├── scrollview-icon.png
+│   │   │   │   │   │   │   │   ├── scrollview-icon16.png
+│   │   │   │   │   │   │   │   ├── scrollview-icon@2x.png
+│   │   │   │   │   │   │   │   ├── slider-icon.png
+│   │   │   │   │   │   │   │   ├── slider-icon16.png
+│   │   │   │   │   │   │   │   ├── slider-icon@2x.png
+│   │   │   │   │   │   │   │   ├── spinbox-icon.png
+│   │   │   │   │   │   │   │   ├── spinbox-icon16.png
+│   │   │   │   │   │   │   │   ├── spinbox-icon@2x.png
+│   │   │   │   │   │   │   │   ├── stackview-icon.png
+│   │   │   │   │   │   │   │   ├── stackview-icon16.png
+│   │   │   │   │   │   │   │   ├── stackview-icon@2x.png
+│   │   │   │   │   │   │   │   ├── swipeview-icon.png
+│   │   │   │   │   │   │   │   ├── swipeview-icon16.png
+│   │   │   │   │   │   │   │   ├── swipeview-icon@2x.png
+│   │   │   │   │   │   │   │   ├── switch-icon.png
+│   │   │   │   │   │   │   │   ├── switch-icon16.png
+│   │   │   │   │   │   │   │   ├── switch-icon@2x.png
+│   │   │   │   │   │   │   │   ├── textarea-icon.png
+│   │   │   │   │   │   │   │   ├── textarea-icon16.png
+│   │   │   │   │   │   │   │   ├── textarea-icon@2x.png
+│   │   │   │   │   │   │   │   ├── textfield-icon.png
+│   │   │   │   │   │   │   │   ├── textfield-icon16.png
+│   │   │   │   │   │   │   │   ├── textfield-icon@2x.png
+│   │   │   │   │   │   │   │   ├── toolbar-icon.png
+│   │   │   │   │   │   │   │   ├── toolbar-icon16.png
+│   │   │   │   │   │   │   │   ├── toolbar-icon@2x.png
+│   │   │   │   │   │   │   │   ├── toolbutton-icon.png
+│   │   │   │   │   │   │   │   ├── toolbutton-icon16.png
+│   │   │   │   │   │   │   │   ├── toolbutton-icon@2x.png
+│   │   │   │   │   │   │   │   ├── toolseparator-icon.png
+│   │   │   │   │   │   │   │   ├── toolseparator-icon16.png
+│   │   │   │   │   │   │   │   ├── toolseparator-icon@2x.png
+│   │   │   │   │   │   │   │   ├── tumbler-icon.png
+│   │   │   │   │   │   │   │   ├── tumbler-icon16.png
+│   │   │   │   │   │   │   │   └── tumbler-icon@2x.png
+│   │   │   │   │   │   │   ├── AbstractButtonSection.qml
+│   │   │   │   │   │   │   ├── BusyIndicatorSpecifics.qml
+│   │   │   │   │   │   │   ├── ButtonSection.qml
+│   │   │   │   │   │   │   ├── ButtonSpecifics.qml
+│   │   │   │   │   │   │   ├── CheckBoxSpecifics.qml
+│   │   │   │   │   │   │   ├── CheckDelegateSpecifics.qml
+│   │   │   │   │   │   │   ├── CheckSection.qml
+│   │   │   │   │   │   │   ├── ComboBoxSpecifics.qml
+│   │   │   │   │   │   │   ├── ContainerSection.qml
+│   │   │   │   │   │   │   ├── ControlSection.qml
+│   │   │   │   │   │   │   ├── ControlSpecifics.qml
+│   │   │   │   │   │   │   ├── DelayButtonSpecifics.qml
+│   │   │   │   │   │   │   ├── DialSpecifics.qml
+│   │   │   │   │   │   │   ├── FrameSpecifics.qml
+│   │   │   │   │   │   │   ├── GroupBoxSpecifics.qml
+│   │   │   │   │   │   │   ├── InsetSection.qml
+│   │   │   │   │   │   │   ├── ItemDelegateSection.qml
+│   │   │   │   │   │   │   ├── ItemDelegateSpecifics.qml
+│   │   │   │   │   │   │   ├── LabelSpecifics.qml
+│   │   │   │   │   │   │   ├── PaddingSection.qml
+│   │   │   │   │   │   │   ├── PageIndicatorSpecifics.qml
+│   │   │   │   │   │   │   ├── PageSpecifics.qml
+│   │   │   │   │   │   │   ├── PaneSection.qml
+│   │   │   │   │   │   │   ├── PaneSpecifics.qml
+│   │   │   │   │   │   │   ├── ProgressBarSpecifics.qml
+│   │   │   │   │   │   │   ├── qtquickcontrols2.metainfo
+│   │   │   │   │   │   │   ├── RadioButtonSpecifics.qml
+│   │   │   │   │   │   │   ├── RadioDelegateSpecifics.qml
+│   │   │   │   │   │   │   ├── RangeSliderSpecifics.qml
+│   │   │   │   │   │   │   ├── RoundButtonSpecifics.qml
+│   │   │   │   │   │   │   ├── ScrollViewSpecifics.qml
+│   │   │   │   │   │   │   ├── SliderSpecifics.qml
+│   │   │   │   │   │   │   ├── SpinBoxSpecifics.qml
+│   │   │   │   │   │   │   ├── StackViewSpecifics.qml
+│   │   │   │   │   │   │   ├── SwipeDelegateSpecifics.qml
+│   │   │   │   │   │   │   ├── SwipeViewSpecifics.qml
+│   │   │   │   │   │   │   ├── SwitchDelegateSpecifics.qml
+│   │   │   │   │   │   │   ├── SwitchSpecifics.qml
+│   │   │   │   │   │   │   ├── TabBarSpecifics.qml
+│   │   │   │   │   │   │   ├── TabButtonSpecifics.qml
+│   │   │   │   │   │   │   ├── TextAreaSpecifics.qml
+│   │   │   │   │   │   │   ├── TextFieldSpecifics.qml
+│   │   │   │   │   │   │   ├── ToolBarSpecifics.qml
+│   │   │   │   │   │   │   ├── ToolButtonSpecifics.qml
+│   │   │   │   │   │   │   ├── ToolSeparatorSpecifics.qml
+│   │   │   │   │   │   │   └── TumblerSpecifics.qml
+│   │   │   │   │   │   ├── Fusion
+│   │   │   │   │   │   │   ├── ApplicationWindow.qml
+│   │   │   │   │   │   │   ├── BusyIndicator.qml
+│   │   │   │   │   │   │   ├── Button.qml
+│   │   │   │   │   │   │   ├── ButtonPanel.qml
+│   │   │   │   │   │   │   ├── CheckBox.qml
+│   │   │   │   │   │   │   ├── CheckDelegate.qml
+│   │   │   │   │   │   │   ├── CheckIndicator.qml
+│   │   │   │   │   │   │   ├── ComboBox.qml
+│   │   │   │   │   │   │   ├── DelayButton.qml
+│   │   │   │   │   │   │   ├── Dial.qml
+│   │   │   │   │   │   │   ├── Dialog.qml
+│   │   │   │   │   │   │   ├── DialogButtonBox.qml
+│   │   │   │   │   │   │   ├── Drawer.qml
+│   │   │   │   │   │   │   ├── Frame.qml
+│   │   │   │   │   │   │   ├── GroupBox.qml
+│   │   │   │   │   │   │   ├── HorizontalHeaderView.qml
+│   │   │   │   │   │   │   ├── ItemDelegate.qml
+│   │   │   │   │   │   │   ├── Label.qml
+│   │   │   │   │   │   │   ├── Menu.qml
+│   │   │   │   │   │   │   ├── MenuBar.qml
+│   │   │   │   │   │   │   ├── MenuBarItem.qml
+│   │   │   │   │   │   │   ├── MenuItem.qml
+│   │   │   │   │   │   │   ├── MenuSeparator.qml
+│   │   │   │   │   │   │   ├── Page.qml
+│   │   │   │   │   │   │   ├── PageIndicator.qml
+│   │   │   │   │   │   │   ├── Pane.qml
+│   │   │   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   │   │   ├── Popup.qml
+│   │   │   │   │   │   │   ├── ProgressBar.qml
+│   │   │   │   │   │   │   ├── qmldir
+│   │   │   │   │   │   │   ├── qtquickcontrols2fusionstyleplugin.dll
+│   │   │   │   │   │   │   ├── RadioButton.qml
+│   │   │   │   │   │   │   ├── RadioDelegate.qml
+│   │   │   │   │   │   │   ├── RadioIndicator.qml
+│   │   │   │   │   │   │   ├── RangeSlider.qml
+│   │   │   │   │   │   │   ├── RoundButton.qml
+│   │   │   │   │   │   │   ├── ScrollBar.qml
+│   │   │   │   │   │   │   ├── ScrollIndicator.qml
+│   │   │   │   │   │   │   ├── Slider.qml
+│   │   │   │   │   │   │   ├── SliderGroove.qml
+│   │   │   │   │   │   │   ├── SliderHandle.qml
+│   │   │   │   │   │   │   ├── SpinBox.qml
+│   │   │   │   │   │   │   ├── SplitView.qml
+│   │   │   │   │   │   │   ├── SwipeDelegate.qml
+│   │   │   │   │   │   │   ├── Switch.qml
+│   │   │   │   │   │   │   ├── SwitchDelegate.qml
+│   │   │   │   │   │   │   ├── SwitchIndicator.qml
+│   │   │   │   │   │   │   ├── TabBar.qml
+│   │   │   │   │   │   │   ├── TabButton.qml
+│   │   │   │   │   │   │   ├── TextArea.qml
+│   │   │   │   │   │   │   ├── TextField.qml
+│   │   │   │   │   │   │   ├── ToolBar.qml
+│   │   │   │   │   │   │   ├── ToolButton.qml
+│   │   │   │   │   │   │   ├── ToolSeparator.qml
+│   │   │   │   │   │   │   ├── ToolTip.qml
+│   │   │   │   │   │   │   ├── Tumbler.qml
+│   │   │   │   │   │   │   └── VerticalHeaderView.qml
+│   │   │   │   │   │   ├── Imagine
+│   │   │   │   │   │   │   ├── ApplicationWindow.qml
+│   │   │   │   │   │   │   ├── BusyIndicator.qml
+│   │   │   │   │   │   │   ├── Button.qml
+│   │   │   │   │   │   │   ├── CheckBox.qml
+│   │   │   │   │   │   │   ├── CheckDelegate.qml
+│   │   │   │   │   │   │   ├── ComboBox.qml
+│   │   │   │   │   │   │   ├── DelayButton.qml
+│   │   │   │   │   │   │   ├── Dial.qml
+│   │   │   │   │   │   │   ├── Dialog.qml
+│   │   │   │   │   │   │   ├── DialogButtonBox.qml
+│   │   │   │   │   │   │   ├── Drawer.qml
+│   │   │   │   │   │   │   ├── Frame.qml
+│   │   │   │   │   │   │   ├── GroupBox.qml
+│   │   │   │   │   │   │   ├── HorizontalHeaderView.qml
+│   │   │   │   │   │   │   ├── ItemDelegate.qml
+│   │   │   │   │   │   │   ├── Label.qml
+│   │   │   │   │   │   │   ├── Menu.qml
+│   │   │   │   │   │   │   ├── MenuItem.qml
+│   │   │   │   │   │   │   ├── MenuSeparator.qml
+│   │   │   │   │   │   │   ├── Page.qml
+│   │   │   │   │   │   │   ├── PageIndicator.qml
+│   │   │   │   │   │   │   ├── Pane.qml
+│   │   │   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   │   │   ├── Popup.qml
+│   │   │   │   │   │   │   ├── ProgressBar.qml
+│   │   │   │   │   │   │   ├── qmldir
+│   │   │   │   │   │   │   ├── qtquickcontrols2imaginestyleplugin.dll
+│   │   │   │   │   │   │   ├── RadioButton.qml
+│   │   │   │   │   │   │   ├── RadioDelegate.qml
+│   │   │   │   │   │   │   ├── RangeSlider.qml
+│   │   │   │   │   │   │   ├── RoundButton.qml
+│   │   │   │   │   │   │   ├── ScrollBar.qml
+│   │   │   │   │   │   │   ├── ScrollIndicator.qml
+│   │   │   │   │   │   │   ├── Slider.qml
+│   │   │   │   │   │   │   ├── SpinBox.qml
+│   │   │   │   │   │   │   ├── SplitView.qml
+│   │   │   │   │   │   │   ├── StackView.qml
+│   │   │   │   │   │   │   ├── SwipeDelegate.qml
+│   │   │   │   │   │   │   ├── SwipeView.qml
+│   │   │   │   │   │   │   ├── Switch.qml
+│   │   │   │   │   │   │   ├── SwitchDelegate.qml
+│   │   │   │   │   │   │   ├── TabBar.qml
+│   │   │   │   │   │   │   ├── TabButton.qml
+│   │   │   │   │   │   │   ├── TextArea.qml
+│   │   │   │   │   │   │   ├── TextField.qml
+│   │   │   │   │   │   │   ├── ToolBar.qml
+│   │   │   │   │   │   │   ├── ToolButton.qml
+│   │   │   │   │   │   │   ├── ToolSeparator.qml
+│   │   │   │   │   │   │   ├── ToolTip.qml
+│   │   │   │   │   │   │   ├── Tumbler.qml
+│   │   │   │   │   │   │   └── VerticalHeaderView.qml
+│   │   │   │   │   │   ├── Material
+│   │   │   │   │   │   │   ├── ApplicationWindow.qml
+│   │   │   │   │   │   │   ├── BoxShadow.qml
+│   │   │   │   │   │   │   ├── BusyIndicator.qml
+│   │   │   │   │   │   │   ├── Button.qml
+│   │   │   │   │   │   │   ├── CheckBox.qml
+│   │   │   │   │   │   │   ├── CheckDelegate.qml
+│   │   │   │   │   │   │   ├── CheckIndicator.qml
+│   │   │   │   │   │   │   ├── ComboBox.qml
+│   │   │   │   │   │   │   ├── CursorDelegate.qml
+│   │   │   │   │   │   │   ├── DelayButton.qml
+│   │   │   │   │   │   │   ├── Dial.qml
+│   │   │   │   │   │   │   ├── Dialog.qml
+│   │   │   │   │   │   │   ├── DialogButtonBox.qml
+│   │   │   │   │   │   │   ├── Drawer.qml
+│   │   │   │   │   │   │   ├── ElevationEffect.qml
+│   │   │   │   │   │   │   ├── Frame.qml
+│   │   │   │   │   │   │   ├── GroupBox.qml
+│   │   │   │   │   │   │   ├── HorizontalHeaderView.qml
+│   │   │   │   │   │   │   ├── ItemDelegate.qml
+│   │   │   │   │   │   │   ├── Label.qml
+│   │   │   │   │   │   │   ├── Menu.qml
+│   │   │   │   │   │   │   ├── MenuBar.qml
+│   │   │   │   │   │   │   ├── MenuBarItem.qml
+│   │   │   │   │   │   │   ├── MenuItem.qml
+│   │   │   │   │   │   │   ├── MenuSeparator.qml
+│   │   │   │   │   │   │   ├── Page.qml
+│   │   │   │   │   │   │   ├── PageIndicator.qml
+│   │   │   │   │   │   │   ├── Pane.qml
+│   │   │   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   │   │   ├── Popup.qml
+│   │   │   │   │   │   │   ├── ProgressBar.qml
+│   │   │   │   │   │   │   ├── qmldir
+│   │   │   │   │   │   │   ├── qtquickcontrols2materialstyleplugin.dll
+│   │   │   │   │   │   │   ├── RadioButton.qml
+│   │   │   │   │   │   │   ├── RadioDelegate.qml
+│   │   │   │   │   │   │   ├── RadioIndicator.qml
+│   │   │   │   │   │   │   ├── RangeSlider.qml
+│   │   │   │   │   │   │   ├── RectangularGlow.qml
+│   │   │   │   │   │   │   ├── RoundButton.qml
+│   │   │   │   │   │   │   ├── ScrollBar.qml
+│   │   │   │   │   │   │   ├── ScrollIndicator.qml
+│   │   │   │   │   │   │   ├── Slider.qml
+│   │   │   │   │   │   │   ├── SliderHandle.qml
+│   │   │   │   │   │   │   ├── SpinBox.qml
+│   │   │   │   │   │   │   ├── SplitView.qml
+│   │   │   │   │   │   │   ├── StackView.qml
+│   │   │   │   │   │   │   ├── SwipeDelegate.qml
+│   │   │   │   │   │   │   ├── SwipeView.qml
+│   │   │   │   │   │   │   ├── Switch.qml
+│   │   │   │   │   │   │   ├── SwitchDelegate.qml
+│   │   │   │   │   │   │   ├── SwitchIndicator.qml
+│   │   │   │   │   │   │   ├── TabBar.qml
+│   │   │   │   │   │   │   ├── TabButton.qml
+│   │   │   │   │   │   │   ├── TextArea.qml
+│   │   │   │   │   │   │   ├── TextField.qml
+│   │   │   │   │   │   │   ├── ToolBar.qml
+│   │   │   │   │   │   │   ├── ToolButton.qml
+│   │   │   │   │   │   │   ├── ToolSeparator.qml
+│   │   │   │   │   │   │   ├── ToolTip.qml
+│   │   │   │   │   │   │   ├── Tumbler.qml
+│   │   │   │   │   │   │   └── VerticalHeaderView.qml
+│   │   │   │   │   │   ├── Universal
+│   │   │   │   │   │   │   ├── ApplicationWindow.qml
+│   │   │   │   │   │   │   ├── BusyIndicator.qml
+│   │   │   │   │   │   │   ├── Button.qml
+│   │   │   │   │   │   │   ├── CheckBox.qml
+│   │   │   │   │   │   │   ├── CheckDelegate.qml
+│   │   │   │   │   │   │   ├── CheckIndicator.qml
+│   │   │   │   │   │   │   ├── ComboBox.qml
+│   │   │   │   │   │   │   ├── DelayButton.qml
+│   │   │   │   │   │   │   ├── Dial.qml
+│   │   │   │   │   │   │   ├── Dialog.qml
+│   │   │   │   │   │   │   ├── DialogButtonBox.qml
+│   │   │   │   │   │   │   ├── Drawer.qml
+│   │   │   │   │   │   │   ├── Frame.qml
+│   │   │   │   │   │   │   ├── GroupBox.qml
+│   │   │   │   │   │   │   ├── HorizontalHeaderView.qml
+│   │   │   │   │   │   │   ├── ItemDelegate.qml
+│   │   │   │   │   │   │   ├── Label.qml
+│   │   │   │   │   │   │   ├── Menu.qml
+│   │   │   │   │   │   │   ├── MenuBar.qml
+│   │   │   │   │   │   │   ├── MenuBarItem.qml
+│   │   │   │   │   │   │   ├── MenuItem.qml
+│   │   │   │   │   │   │   ├── MenuSeparator.qml
+│   │   │   │   │   │   │   ├── Page.qml
+│   │   │   │   │   │   │   ├── PageIndicator.qml
+│   │   │   │   │   │   │   ├── Pane.qml
+│   │   │   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   │   │   ├── Popup.qml
+│   │   │   │   │   │   │   ├── ProgressBar.qml
+│   │   │   │   │   │   │   ├── qmldir
+│   │   │   │   │   │   │   ├── qtquickcontrols2universalstyleplugin.dll
+│   │   │   │   │   │   │   ├── RadioButton.qml
+│   │   │   │   │   │   │   ├── RadioDelegate.qml
+│   │   │   │   │   │   │   ├── RadioIndicator.qml
+│   │   │   │   │   │   │   ├── RangeSlider.qml
+│   │   │   │   │   │   │   ├── RoundButton.qml
+│   │   │   │   │   │   │   ├── ScrollBar.qml
+│   │   │   │   │   │   │   ├── ScrollIndicator.qml
+│   │   │   │   │   │   │   ├── Slider.qml
+│   │   │   │   │   │   │   ├── SpinBox.qml
+│   │   │   │   │   │   │   ├── SplitView.qml
+│   │   │   │   │   │   │   ├── StackView.qml
+│   │   │   │   │   │   │   ├── SwipeDelegate.qml
+│   │   │   │   │   │   │   ├── Switch.qml
+│   │   │   │   │   │   │   ├── SwitchDelegate.qml
+│   │   │   │   │   │   │   ├── SwitchIndicator.qml
+│   │   │   │   │   │   │   ├── TabBar.qml
+│   │   │   │   │   │   │   ├── TabButton.qml
+│   │   │   │   │   │   │   ├── TextArea.qml
+│   │   │   │   │   │   │   ├── TextField.qml
+│   │   │   │   │   │   │   ├── ToolBar.qml
+│   │   │   │   │   │   │   ├── ToolButton.qml
+│   │   │   │   │   │   │   ├── ToolSeparator.qml
+│   │   │   │   │   │   │   ├── ToolTip.qml
+│   │   │   │   │   │   │   ├── Tumbler.qml
+│   │   │   │   │   │   │   └── VerticalHeaderView.qml
+│   │   │   │   │   │   ├── AbstractButton.qml
+│   │   │   │   │   │   ├── Action.qml
+│   │   │   │   │   │   ├── ActionGroup.qml
+│   │   │   │   │   │   ├── ApplicationWindow.qml
+│   │   │   │   │   │   ├── BusyIndicator.qml
+│   │   │   │   │   │   ├── Button.qml
+│   │   │   │   │   │   ├── ButtonGroup.qml
+│   │   │   │   │   │   ├── CheckBox.qml
+│   │   │   │   │   │   ├── CheckDelegate.qml
+│   │   │   │   │   │   ├── ComboBox.qml
+│   │   │   │   │   │   ├── Container.qml
+│   │   │   │   │   │   ├── Control.qml
+│   │   │   │   │   │   ├── DelayButton.qml
+│   │   │   │   │   │   ├── Dial.qml
+│   │   │   │   │   │   ├── Dialog.qml
+│   │   │   │   │   │   ├── DialogButtonBox.qml
+│   │   │   │   │   │   ├── Drawer.qml
+│   │   │   │   │   │   ├── Frame.qml
+│   │   │   │   │   │   ├── GroupBox.qml
+│   │   │   │   │   │   ├── HorizontalHeaderView.qml
+│   │   │   │   │   │   ├── ItemDelegate.qml
+│   │   │   │   │   │   ├── Label.qml
+│   │   │   │   │   │   ├── Menu.qml
+│   │   │   │   │   │   ├── MenuBar.qml
+│   │   │   │   │   │   ├── MenuBarItem.qml
+│   │   │   │   │   │   ├── MenuItem.qml
+│   │   │   │   │   │   ├── MenuSeparator.qml
+│   │   │   │   │   │   ├── Page.qml
+│   │   │   │   │   │   ├── PageIndicator.qml
+│   │   │   │   │   │   ├── Pane.qml
+│   │   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   │   ├── Popup.qml
+│   │   │   │   │   │   ├── ProgressBar.qml
+│   │   │   │   │   │   ├── qmldir
+│   │   │   │   │   │   ├── qtquickcontrols2plugin.dll
+│   │   │   │   │   │   ├── RadioButton.qml
+│   │   │   │   │   │   ├── RadioDelegate.qml
+│   │   │   │   │   │   ├── RangeSlider.qml
+│   │   │   │   │   │   ├── RoundButton.qml
+│   │   │   │   │   │   ├── ScrollBar.qml
+│   │   │   │   │   │   ├── ScrollIndicator.qml
+│   │   │   │   │   │   ├── ScrollView.qml
+│   │   │   │   │   │   ├── Slider.qml
+│   │   │   │   │   │   ├── SpinBox.qml
+│   │   │   │   │   │   ├── SplitView.qml
+│   │   │   │   │   │   ├── StackView.qml
+│   │   │   │   │   │   ├── SwipeDelegate.qml
+│   │   │   │   │   │   ├── SwipeView.qml
+│   │   │   │   │   │   ├── Switch.qml
+│   │   │   │   │   │   ├── SwitchDelegate.qml
+│   │   │   │   │   │   ├── TabBar.qml
+│   │   │   │   │   │   ├── TabButton.qml
+│   │   │   │   │   │   ├── TextArea.qml
+│   │   │   │   │   │   ├── TextField.qml
+│   │   │   │   │   │   ├── ToolBar.qml
+│   │   │   │   │   │   ├── ToolButton.qml
+│   │   │   │   │   │   ├── ToolSeparator.qml
+│   │   │   │   │   │   ├── ToolTip.qml
+│   │   │   │   │   │   ├── Tumbler.qml
+│   │   │   │   │   │   └── VerticalHeaderView.qml
+│   │   │   │   │   ├── Dialogs
+│   │   │   │   │   │   ├── images
+│   │   │   │   │   │   │   ├── checkers.png
+│   │   │   │   │   │   │   ├── checkmark.png
+│   │   │   │   │   │   │   ├── copy.png
+│   │   │   │   │   │   │   ├── critical.png
+│   │   │   │   │   │   │   ├── crosshairs.png
+│   │   │   │   │   │   │   ├── information.png
+│   │   │   │   │   │   │   ├── question.png
+│   │   │   │   │   │   │   ├── slider_handle.png
+│   │   │   │   │   │   │   ├── sunken_frame.png
+│   │   │   │   │   │   │   ├── warning.png
+│   │   │   │   │   │   │   └── window_border.png
+│   │   │   │   │   │   ├── Private
+│   │   │   │   │   │   │   ├── dialogsprivateplugin.dll
+│   │   │   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   │   │   └── qmldir
+│   │   │   │   │   │   ├── qml
+│   │   │   │   │   │   │   ├── ColorSlider.qml
+│   │   │   │   │   │   │   ├── ColorSlider.qmlc
+│   │   │   │   │   │   │   ├── DefaultWindowDecoration.qml
+│   │   │   │   │   │   │   ├── DefaultWindowDecoration.qmlc
+│   │   │   │   │   │   │   ├── IconButtonStyle.qml
+│   │   │   │   │   │   │   ├── IconButtonStyle.qmlc
+│   │   │   │   │   │   │   ├── IconGlyph.qml
+│   │   │   │   │   │   │   ├── IconGlyph.qmlc
+│   │   │   │   │   │   │   ├── icons.ttf
+│   │   │   │   │   │   │   └── qmldir
+│   │   │   │   │   │   ├── DefaultColorDialog.qml
+│   │   │   │   │   │   ├── DefaultColorDialog.qmlc
+│   │   │   │   │   │   ├── DefaultDialogWrapper.qml
+│   │   │   │   │   │   ├── DefaultDialogWrapper.qmlc
+│   │   │   │   │   │   ├── DefaultFileDialog.qml
+│   │   │   │   │   │   ├── DefaultFileDialog.qmlc
+│   │   │   │   │   │   ├── DefaultFontDialog.qml
+│   │   │   │   │   │   ├── DefaultFontDialog.qmlc
+│   │   │   │   │   │   ├── DefaultMessageDialog.qml
+│   │   │   │   │   │   ├── DefaultMessageDialog.qmlc
+│   │   │   │   │   │   ├── dialogplugin.dll
+│   │   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   │   ├── qmldir
+│   │   │   │   │   │   ├── WidgetColorDialog.qml
+│   │   │   │   │   │   ├── WidgetColorDialog.qmlc
+│   │   │   │   │   │   ├── WidgetFileDialog.qml
+│   │   │   │   │   │   ├── WidgetFileDialog.qmlc
+│   │   │   │   │   │   ├── WidgetFontDialog.qml
+│   │   │   │   │   │   ├── WidgetFontDialog.qmlc
+│   │   │   │   │   │   ├── WidgetMessageDialog.qml
+│   │   │   │   │   │   └── WidgetMessageDialog.qmlc
+│   │   │   │   │   ├── Extras
+│   │   │   │   │   │   ├── designer
+│   │   │   │   │   │   │   ├── images
+│   │   │   │   │   │   │   │   ├── circulargauge-icon.png
+│   │   │   │   │   │   │   │   ├── circulargauge-icon16.png
+│   │   │   │   │   │   │   │   ├── delaybutton-icon.png
+│   │   │   │   │   │   │   │   ├── delaybutton-icon16.png
+│   │   │   │   │   │   │   │   ├── dial-icon.png
+│   │   │   │   │   │   │   │   ├── dial-icon16.png
+│   │   │   │   │   │   │   │   ├── gauge-icon.png
+│   │   │   │   │   │   │   │   ├── gauge-icon16.png
+│   │   │   │   │   │   │   │   ├── picture-icon.png
+│   │   │   │   │   │   │   │   ├── picture-icon16.png
+│   │   │   │   │   │   │   │   ├── piemenu-icon.png
+│   │   │   │   │   │   │   │   ├── piemenu-icon16.png
+│   │   │   │   │   │   │   │   ├── statusindicator-icon.png
+│   │   │   │   │   │   │   │   ├── statusindicator-icon16.png
+│   │   │   │   │   │   │   │   ├── togglebutton-icon.png
+│   │   │   │   │   │   │   │   ├── togglebutton-icon16.png
+│   │   │   │   │   │   │   │   ├── tumbler-icon.png
+│   │   │   │   │   │   │   │   └── tumbler-icon16.png
+│   │   │   │   │   │   │   ├── CircularGaugeSpecifics.qml
+│   │   │   │   │   │   │   ├── CircularGaugeSpecifics.qmlc
+│   │   │   │   │   │   │   ├── DelayButtonSpecifics.qml
+│   │   │   │   │   │   │   ├── DelayButtonSpecifics.qmlc
+│   │   │   │   │   │   │   ├── DialSpecifics.qml
+│   │   │   │   │   │   │   ├── DialSpecifics.qmlc
+│   │   │   │   │   │   │   ├── GaugeSpecifics.qml
+│   │   │   │   │   │   │   ├── GaugeSpecifics.qmlc
+│   │   │   │   │   │   │   ├── PictureSpecifics.qml
+│   │   │   │   │   │   │   ├── PictureSpecifics.qmlc
+│   │   │   │   │   │   │   ├── PieMenuSpecifics.qml
+│   │   │   │   │   │   │   ├── PieMenuSpecifics.qmlc
+│   │   │   │   │   │   │   ├── qtquickextras.metainfo
+│   │   │   │   │   │   │   ├── StatusIndicatorSpecifics.qml
+│   │   │   │   │   │   │   ├── StatusIndicatorSpecifics.qmlc
+│   │   │   │   │   │   │   ├── ToggleButtonSpecifics.qml
+│   │   │   │   │   │   │   └── ToggleButtonSpecifics.qmlc
+│   │   │   │   │   │   ├── Private
+│   │   │   │   │   │   │   ├── CircularButton.qml
+│   │   │   │   │   │   │   ├── CircularButton.qmlc
+│   │   │   │   │   │   │   ├── CircularButtonStyleHelper.qml
+│   │   │   │   │   │   │   ├── CircularButtonStyleHelper.qmlc
+│   │   │   │   │   │   │   ├── CircularTickmarkLabel.qml
+│   │   │   │   │   │   │   ├── CircularTickmarkLabel.qmlc
+│   │   │   │   │   │   │   ├── Handle.qml
+│   │   │   │   │   │   │   ├── Handle.qmlc
+│   │   │   │   │   │   │   ├── PieMenuIcon.qml
+│   │   │   │   │   │   │   ├── PieMenuIcon.qmlc
+│   │   │   │   │   │   │   ├── qmldir
+│   │   │   │   │   │   │   ├── TextSingleton.qml
+│   │   │   │   │   │   │   └── TextSingleton.qmlc
+│   │   │   │   │   │   ├── CircularGauge.qml
+│   │   │   │   │   │   ├── CircularGauge.qmlc
+│   │   │   │   │   │   ├── DelayButton.qml
+│   │   │   │   │   │   ├── DelayButton.qmlc
+│   │   │   │   │   │   ├── Dial.qml
+│   │   │   │   │   │   ├── Dial.qmlc
+│   │   │   │   │   │   ├── Gauge.qml
+│   │   │   │   │   │   ├── Gauge.qmlc
+│   │   │   │   │   │   ├── PieMenu.qml
+│   │   │   │   │   │   ├── PieMenu.qmlc
+│   │   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   │   ├── qmldir
+│   │   │   │   │   │   ├── qtquickextrasplugin.dll
+│   │   │   │   │   │   ├── StatusIndicator.qml
+│   │   │   │   │   │   ├── StatusIndicator.qmlc
+│   │   │   │   │   │   ├── ToggleButton.qml
+│   │   │   │   │   │   ├── ToggleButton.qmlc
+│   │   │   │   │   │   ├── Tumbler.qml
+│   │   │   │   │   │   ├── Tumbler.qmlc
+│   │   │   │   │   │   ├── TumblerColumn.qml
+│   │   │   │   │   │   └── TumblerColumn.qmlc
+│   │   │   │   │   ├── Layouts
+│   │   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   │   ├── qmldir
+│   │   │   │   │   │   └── qquicklayoutsplugin.dll
+│   │   │   │   │   ├── LocalStorage
+│   │   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   │   ├── qmldir
+│   │   │   │   │   │   └── qmllocalstorageplugin.dll
+│   │   │   │   │   ├── Particles.2
+│   │   │   │   │   │   ├── particlesplugin.dll
+│   │   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   │   └── qmldir
+│   │   │   │   │   ├── PrivateWidgets
+│   │   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   │   ├── qmldir
+│   │   │   │   │   │   └── widgetsplugin.dll
+│   │   │   │   │   ├── Scene2D
+│   │   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   │   ├── qmldir
+│   │   │   │   │   │   └── qtquickscene2dplugin.dll
+│   │   │   │   │   ├── Scene3D
+│   │   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   │   ├── qmldir
+│   │   │   │   │   │   └── qtquickscene3dplugin.dll
+│   │   │   │   │   ├── Shapes
+│   │   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   │   ├── qmldir
+│   │   │   │   │   │   └── qmlshapesplugin.dll
+│   │   │   │   │   ├── Templates.2
+│   │   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   │   ├── qmldir
+│   │   │   │   │   │   └── qtquicktemplates2plugin.dll
+│   │   │   │   │   ├── Timeline
+│   │   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   │   ├── qmldir
+│   │   │   │   │   │   └── qtquicktimelineplugin.dll
+│   │   │   │   │   ├── Window.2
+│   │   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   │   ├── qmldir
+│   │   │   │   │   │   └── windowplugin.dll
+│   │   │   │   │   └── XmlListModel
+│   │   │   │   │       ├── plugins.qmltypes
+│   │   │   │   │       ├── qmldir
+│   │   │   │   │       └── qmlxmllistmodelplugin.dll
+│   │   │   │   ├── QtQuick.2
+│   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   ├── qmldir
+│   │   │   │   │   └── qtquick2plugin.dll
+│   │   │   │   ├── QtQuick3D
+│   │   │   │   │   ├── designer
+│   │   │   │   │   │   ├── images
+│   │   │   │   │   │   │   ├── camera.png
+│   │   │   │   │   │   │   ├── camera16.png
+│   │   │   │   │   │   │   ├── camera@2x.png
+│   │   │   │   │   │   │   ├── cone.png
+│   │   │   │   │   │   │   ├── cone16.png
+│   │   │   │   │   │   │   ├── cone@2x.png
+│   │   │   │   │   │   │   ├── cube.png
+│   │   │   │   │   │   │   ├── cube16.png
+│   │   │   │   │   │   │   ├── cube@2x.png
+│   │   │   │   │   │   │   ├── cylinder.png
+│   │   │   │   │   │   │   ├── cylinder16.png
+│   │   │   │   │   │   │   ├── cylinder@2x.png
+│   │   │   │   │   │   │   ├── dummy.png
+│   │   │   │   │   │   │   ├── dummy16.png
+│   │   │   │   │   │   │   ├── dummy@2x.png
+│   │   │   │   │   │   │   ├── group.png
+│   │   │   │   │   │   │   ├── group16.png
+│   │   │   │   │   │   │   ├── group@2x.png
+│   │   │   │   │   │   │   ├── light.png
+│   │   │   │   │   │   │   ├── light16.png
+│   │   │   │   │   │   │   ├── light@2x.png
+│   │   │   │   │   │   │   ├── material.png
+│   │   │   │   │   │   │   ├── material16.png
+│   │   │   │   │   │   │   ├── material@2x.png
+│   │   │   │   │   │   │   ├── model16.png
+│   │   │   │   │   │   │   ├── plane.png
+│   │   │   │   │   │   │   ├── plane16.png
+│   │   │   │   │   │   │   ├── plane@2x.png
+│   │   │   │   │   │   │   ├── scene.png
+│   │   │   │   │   │   │   ├── scene16.png
+│   │   │   │   │   │   │   ├── scene@2x.png
+│   │   │   │   │   │   │   ├── shadercommand.png
+│   │   │   │   │   │   │   ├── shadercommand16.png
+│   │   │   │   │   │   │   ├── shadercommand@2x.png
+│   │   │   │   │   │   │   ├── shaderutil.png
+│   │   │   │   │   │   │   ├── shaderutil16.png
+│   │   │   │   │   │   │   ├── shaderutil@2x.png
+│   │   │   │   │   │   │   ├── sphere.png
+│   │   │   │   │   │   │   ├── sphere16.png
+│   │   │   │   │   │   │   ├── sphere@2x.png
+│   │   │   │   │   │   │   ├── texture.png
+│   │   │   │   │   │   │   ├── texture16.png
+│   │   │   │   │   │   │   ├── texture@2x.png
+│   │   │   │   │   │   │   ├── view3D.png
+│   │   │   │   │   │   │   ├── view3D16.png
+│   │   │   │   │   │   │   └── view3D@2x.png
+│   │   │   │   │   │   ├── source
+│   │   │   │   │   │   │   ├── cone_model_template.qml
+│   │   │   │   │   │   │   ├── cube_model_template.qml
+│   │   │   │   │   │   │   ├── cylinder_model_template.qml
+│   │   │   │   │   │   │   ├── plane_model_template.qml
+│   │   │   │   │   │   │   ├── sphere_model_template.qml
+│   │   │   │   │   │   │   └── view3D_template.qml
+│   │   │   │   │   │   ├── AreaLightSection.qml
+│   │   │   │   │   │   ├── AreaLightSpecifics.qml
+│   │   │   │   │   │   ├── BlendingSection.qml
+│   │   │   │   │   │   ├── BlendingSpecifics.qml
+│   │   │   │   │   │   ├── BufferBlitSection.qml
+│   │   │   │   │   │   ├── BufferBlitSpecifics.qml
+│   │   │   │   │   │   ├── BufferInputSection.qml
+│   │   │   │   │   │   ├── BufferInputSpecifics.qml
+│   │   │   │   │   │   ├── BufferSection.qml
+│   │   │   │   │   │   ├── BufferSpecifics.qml
+│   │   │   │   │   │   ├── CullModeSection.qml
+│   │   │   │   │   │   ├── CullModeSpecifics.qml
+│   │   │   │   │   │   ├── CustomCameraSection.qml
+│   │   │   │   │   │   ├── CustomCameraSpecifics.qml
+│   │   │   │   │   │   ├── DefaultMaterialSection.qml
+│   │   │   │   │   │   ├── DefaultMaterialSpecifics.qml
+│   │   │   │   │   │   ├── DepthInputSection.qml
+│   │   │   │   │   │   ├── DepthInputSpecifics.qml
+│   │   │   │   │   │   ├── DirectionalLightSection.qml
+│   │   │   │   │   │   ├── DirectionalLightSpecifics.qml
+│   │   │   │   │   │   ├── FrustumCameraSection.qml
+│   │   │   │   │   │   ├── FrustumCameraSpecifics.qml
+│   │   │   │   │   │   ├── IdComboBox.qml
+│   │   │   │   │   │   ├── MaterialSection.qml
+│   │   │   │   │   │   ├── ModelSection.qml
+│   │   │   │   │   │   ├── ModelSpecifics.qml
+│   │   │   │   │   │   ├── NodeSection.qml
+│   │   │   │   │   │   ├── NodeSpecifics.qml
+│   │   │   │   │   │   ├── Object3DSection.qml
+│   │   │   │   │   │   ├── OrthographicCameraSection.qml
+│   │   │   │   │   │   ├── OrthographicCameraSpecifics.qml
+│   │   │   │   │   │   ├── PassSection.qml
+│   │   │   │   │   │   ├── PassSpecifics.qml
+│   │   │   │   │   │   ├── PerspectiveCameraSection.qml
+│   │   │   │   │   │   ├── PerspectiveCameraSpecifics.qml
+│   │   │   │   │   │   ├── PointLightSection.qml
+│   │   │   │   │   │   ├── PointLightSpecifics.qml
+│   │   │   │   │   │   ├── PrincipledMaterialSection.qml
+│   │   │   │   │   │   ├── PrincipledMaterialSpecifics.qml
+│   │   │   │   │   │   ├── quick3d.metainfo
+│   │   │   │   │   │   ├── RenderStateSection.qml
+│   │   │   │   │   │   ├── RenderStateSpecifics.qml
+│   │   │   │   │   │   ├── SceneEnvironmentSection.qml
+│   │   │   │   │   │   ├── SceneEnvironmentSpecifics.qml
+│   │   │   │   │   │   ├── SetUniformValueSection.qml
+│   │   │   │   │   │   ├── SetUniformValueSpecifics.qml
+│   │   │   │   │   │   ├── ShaderInfoSection.qml
+│   │   │   │   │   │   ├── ShaderInfoSpecifics.qml
+│   │   │   │   │   │   ├── ShaderSection.qml
+│   │   │   │   │   │   ├── ShaderSpecifics.qml
+│   │   │   │   │   │   ├── ShadowSection.qml
+│   │   │   │   │   │   ├── SpotLightSection.qml
+│   │   │   │   │   │   ├── SpotLightSpecifics.qml
+│   │   │   │   │   │   ├── TextureInputSection.qml
+│   │   │   │   │   │   ├── TextureInputSpecifics.qml
+│   │   │   │   │   │   ├── TextureSection.qml
+│   │   │   │   │   │   ├── TextureSpecifics.qml
+│   │   │   │   │   │   ├── View3DSection.qml
+│   │   │   │   │   │   └── View3DSpecifics.qml
+│   │   │   │   │   ├── Effects
+│   │   │   │   │   │   ├── designer
+│   │   │   │   │   │   │   ├── images
+│   │   │   │   │   │   │   │   ├── effect.png
+│   │   │   │   │   │   │   │   ├── effect16.png
+│   │   │   │   │   │   │   │   └── effect@2x.png
+│   │   │   │   │   │   │   ├── source
+│   │   │   │   │   │   │   │   └── effect_template.qml
+│   │   │   │   │   │   │   ├── AdditiveColorGradientSection.qml
+│   │   │   │   │   │   │   ├── AdditiveColorGradientSpecifics.qml
+│   │   │   │   │   │   │   ├── BlurSection.qml
+│   │   │   │   │   │   │   ├── BlurSpecifics.qml
+│   │   │   │   │   │   │   ├── BrushStrokesSection.qml
+│   │   │   │   │   │   │   ├── BrushStrokesSpecifics.qml
+│   │   │   │   │   │   │   ├── ChromaticAberrationSection.qml
+│   │   │   │   │   │   │   ├── ChromaticAberrationSpecifics.qml
+│   │   │   │   │   │   │   ├── ColorMasterSection.qml
+│   │   │   │   │   │   │   ├── ColorMasterSpecifics.qml
+│   │   │   │   │   │   │   ├── DepthOfFieldHQBlurSection.qml
+│   │   │   │   │   │   │   ├── DepthOfFieldHQBlurSpecifics.qml
+│   │   │   │   │   │   │   ├── DesaturateSection.qml
+│   │   │   │   │   │   │   ├── DesaturateSpecifics.qml
+│   │   │   │   │   │   │   ├── DistortionRippleSection.qml
+│   │   │   │   │   │   │   ├── DistortionRippleSpecifics.qml
+│   │   │   │   │   │   │   ├── DistortionSphereSection.qml
+│   │   │   │   │   │   │   ├── DistortionSphereSpecifics.qml
+│   │   │   │   │   │   │   ├── DistortionSpiralSection.qml
+│   │   │   │   │   │   │   ├── DistortionSpiralSpecifics.qml
+│   │   │   │   │   │   │   ├── EdgeDetectSection.qml
+│   │   │   │   │   │   │   ├── EdgeDetectSpecifics.qml
+│   │   │   │   │   │   │   ├── effectlib.metainfo
+│   │   │   │   │   │   │   ├── EffectSection.qml
+│   │   │   │   │   │   │   ├── EffectSpecifics.qml
+│   │   │   │   │   │   │   ├── EmbossSection.qml
+│   │   │   │   │   │   │   ├── EmbossSpecifics.qml
+│   │   │   │   │   │   │   ├── FlipSection.qml
+│   │   │   │   │   │   │   ├── FlipSpecifics.qml
+│   │   │   │   │   │   │   ├── FxaaSection.qml
+│   │   │   │   │   │   │   ├── FxaaSpecifics.qml
+│   │   │   │   │   │   │   ├── GaussianBlurSection.qml
+│   │   │   │   │   │   │   ├── GaussianBlurSpecifics.qml
+│   │   │   │   │   │   │   ├── HDRBloomTonemapSection.qml
+│   │   │   │   │   │   │   ├── HDRBloomTonemapSpecifics.qml
+│   │   │   │   │   │   │   ├── IdComboBox.qml
+│   │   │   │   │   │   │   ├── MotionBlurSection.qml
+│   │   │   │   │   │   │   ├── MotionBlurSpecifics.qml
+│   │   │   │   │   │   │   ├── ScatterSection.qml
+│   │   │   │   │   │   │   ├── ScatterSpecifics.qml
+│   │   │   │   │   │   │   ├── SCurveTonemapSection.qml
+│   │   │   │   │   │   │   ├── SCurveTonemapSpecifics.qml
+│   │   │   │   │   │   │   ├── TiltShiftSection.qml
+│   │   │   │   │   │   │   ├── TiltShiftSpecifics.qml
+│   │   │   │   │   │   │   ├── VignetteSection.qml
+│   │   │   │   │   │   │   └── VignetteSpecifics.qml
+│   │   │   │   │   │   ├── maps
+│   │   │   │   │   │   │   ├── brushnoise.png
+│   │   │   │   │   │   │   └── white.png
+│   │   │   │   │   │   ├── AdditiveColorGradient.qml
+│   │   │   │   │   │   ├── Blur.qml
+│   │   │   │   │   │   ├── BrushStrokes.qml
+│   │   │   │   │   │   ├── ChromaticAberration.qml
+│   │   │   │   │   │   ├── ColorMaster.qml
+│   │   │   │   │   │   ├── DepthOfFieldHQBlur.qml
+│   │   │   │   │   │   ├── Desaturate.qml
+│   │   │   │   │   │   ├── DistortionRipple.qml
+│   │   │   │   │   │   ├── DistortionSphere.qml
+│   │   │   │   │   │   ├── DistortionSpiral.qml
+│   │   │   │   │   │   ├── EdgeDetect.qml
+│   │   │   │   │   │   ├── Emboss.qml
+│   │   │   │   │   │   ├── Flip.qml
+│   │   │   │   │   │   ├── Fxaa.qml
+│   │   │   │   │   │   ├── GaussianBlur.qml
+│   │   │   │   │   │   ├── HDRBloomTonemap.qml
+│   │   │   │   │   │   ├── MotionBlur.qml
+│   │   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   │   ├── qmldir
+│   │   │   │   │   │   ├── qtquick3deffectplugin.dll
+│   │   │   │   │   │   ├── Scatter.qml
+│   │   │   │   │   │   ├── SCurveTonemap.qml
+│   │   │   │   │   │   ├── TiltShift.qml
+│   │   │   │   │   │   └── Vignette.qml
+│   │   │   │   │   ├── Helpers
+│   │   │   │   │   │   ├── meshes
+│   │   │   │   │   │   │   └── axisGrid.mesh
+│   │   │   │   │   │   ├── AxisHelper.qml
+│   │   │   │   │   │   ├── DebugView.qml
+│   │   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   │   ├── qmldir
+│   │   │   │   │   │   ├── qtquick3dhelpersplugin.dll
+│   │   │   │   │   │   └── WasdController.qml
+│   │   │   │   │   ├── Materials
+│   │   │   │   │   │   ├── designer
+│   │   │   │   │   │   │   ├── images
+│   │   │   │   │   │   │   │   ├── custommaterial.png
+│   │   │   │   │   │   │   │   ├── custommaterial16.png
+│   │   │   │   │   │   │   │   └── custommaterial@2x.png
+│   │   │   │   │   │   │   ├── source
+│   │   │   │   │   │   │   │   └── custommaterial_template.qml
+│   │   │   │   │   │   │   ├── AluminumAnodizedEmissiveMaterialSection.qml
+│   │   │   │   │   │   │   ├── AluminumAnodizedEmissiveMaterialSpecifics.qml
+│   │   │   │   │   │   │   ├── AluminumAnodizedMaterialSection.qml
+│   │   │   │   │   │   │   ├── AluminumAnodizedMaterialSpecifics.qml
+│   │   │   │   │   │   │   ├── AluminumBrushedMaterialSection.qml
+│   │   │   │   │   │   │   ├── AluminumBrushedMaterialSpecifics.qml
+│   │   │   │   │   │   │   ├── AluminumEmissiveMaterialSection.qml
+│   │   │   │   │   │   │   ├── AluminumEmissiveMaterialSpecifics.qml
+│   │   │   │   │   │   │   ├── AluminumMaterialSection.qml
+│   │   │   │   │   │   │   ├── AluminumMaterialSpecifics.qml
+│   │   │   │   │   │   │   ├── CopperMaterialSection.qml
+│   │   │   │   │   │   │   ├── CopperMaterialSpecifics.qml
+│   │   │   │   │   │   │   ├── CustomMaterialSection.qml
+│   │   │   │   │   │   │   ├── CustomMaterialSpecifics.qml
+│   │   │   │   │   │   │   ├── FrostedGlassMaterialSection.qml
+│   │   │   │   │   │   │   ├── FrostedGlassMaterialSpecifics.qml
+│   │   │   │   │   │   │   ├── FrostedGlassSinglePassMaterialSection.qml
+│   │   │   │   │   │   │   ├── FrostedGlassSinglePassMaterialSpecifics.qml
+│   │   │   │   │   │   │   ├── GlassMaterialSection.qml
+│   │   │   │   │   │   │   ├── GlassMaterialSpecifics.qml
+│   │   │   │   │   │   │   ├── GlassRefractiveMaterialSection.qml
+│   │   │   │   │   │   │   ├── GlassRefractiveMaterialSpecifics.qml
+│   │   │   │   │   │   │   ├── IdComboBox.qml
+│   │   │   │   │   │   │   ├── materiallib.metainfo
+│   │   │   │   │   │   │   ├── PaperArtisticMaterialSection.qml
+│   │   │   │   │   │   │   ├── PaperArtisticMaterialSpecifics.qml
+│   │   │   │   │   │   │   ├── PaperOfficeMaterialSection.qml
+│   │   │   │   │   │   │   ├── PaperOfficeMaterialSpecifics.qml
+│   │   │   │   │   │   │   ├── PlasticStructuredRedEmissiveMaterialSection.qml
+│   │   │   │   │   │   │   ├── PlasticStructuredRedEmissiveMaterialSpecifics.qml
+│   │   │   │   │   │   │   ├── PlasticStructuredRedMaterialSection.qml
+│   │   │   │   │   │   │   ├── PlasticStructuredRedMaterialSpecifics.qml
+│   │   │   │   │   │   │   ├── SteelMilledConcentricMaterialSection.qml
+│   │   │   │   │   │   │   └── SteelMilledConcentricMaterialSpecifics.qml
+│   │   │   │   │   │   ├── maps
+│   │   │   │   │   │   │   ├── art_paper_normal.png
+│   │   │   │   │   │   │   ├── art_paper_trans.png
+│   │   │   │   │   │   │   ├── brushed_a.png
+│   │   │   │   │   │   │   ├── brushed_full_contrast.png
+│   │   │   │   │   │   │   ├── concentric_milled_steel.png
+│   │   │   │   │   │   │   ├── concentric_milled_steel_aniso.png
+│   │   │   │   │   │   │   ├── emissive.png
+│   │   │   │   │   │   │   ├── emissive_mask.png
+│   │   │   │   │   │   │   ├── grunge_b.png
+│   │   │   │   │   │   │   ├── grunge_d.png
+│   │   │   │   │   │   │   ├── paper_diffuse.png
+│   │   │   │   │   │   │   ├── paper_trans.png
+│   │   │   │   │   │   │   ├── randomGradient1D.png
+│   │   │   │   │   │   │   ├── randomGradient2D.png
+│   │   │   │   │   │   │   ├── randomGradient3D.png
+│   │   │   │   │   │   │   ├── randomGradient4D.png
+│   │   │   │   │   │   │   ├── shadow.png
+│   │   │   │   │   │   │   └── spherical_checker.png
+│   │   │   │   │   │   ├── AluminumAnodizedEmissiveMaterial.qml
+│   │   │   │   │   │   ├── AluminumAnodizedMaterial.qml
+│   │   │   │   │   │   ├── AluminumBrushedMaterial.qml
+│   │   │   │   │   │   ├── AluminumEmissiveMaterial.qml
+│   │   │   │   │   │   ├── AluminumMaterial.qml
+│   │   │   │   │   │   ├── CopperMaterial.qml
+│   │   │   │   │   │   ├── FrostedGlassMaterial.qml
+│   │   │   │   │   │   ├── FrostedGlassSinglePassMaterial.qml
+│   │   │   │   │   │   ├── GlassMaterial.qml
+│   │   │   │   │   │   ├── GlassRefractiveMaterial.qml
+│   │   │   │   │   │   ├── PaperArtisticMaterial.qml
+│   │   │   │   │   │   ├── PaperOfficeMaterial.qml
+│   │   │   │   │   │   ├── PlasticStructuredRedEmissiveMaterial.qml
+│   │   │   │   │   │   ├── PlasticStructuredRedMaterial.qml
+│   │   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   │   ├── qmldir
+│   │   │   │   │   │   ├── qtquick3dmaterialplugin.dll
+│   │   │   │   │   │   └── SteelMilledConcentricMaterial.qml
+│   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   ├── qmldir
+│   │   │   │   │   └── qquick3dplugin.dll
+│   │   │   │   ├── QtRemoteObjects
+│   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   ├── qmldir
+│   │   │   │   │   └── qtremoteobjects.dll
+│   │   │   │   ├── QtSensors
+│   │   │   │   │   ├── declarative_sensors.dll
+│   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   └── qmldir
+│   │   │   │   ├── QtTest
+│   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   ├── qmldir
+│   │   │   │   │   ├── qmltestplugin.dll
+│   │   │   │   │   ├── SignalSpy.qml
+│   │   │   │   │   ├── TestCase.qml
+│   │   │   │   │   └── testlogger.js
+│   │   │   │   ├── QtWebChannel
+│   │   │   │   │   ├── declarative_webchannel.dll
+│   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   └── qmldir
+│   │   │   │   ├── QtWebSockets
+│   │   │   │   │   ├── declarative_qmlwebsockets.dll
+│   │   │   │   │   ├── plugins.qmltypes
+│   │   │   │   │   └── qmldir
+│   │   │   │   └── QtWebView
+│   │   │   │       ├── declarative_webview.dll
+│   │   │   │       ├── plugins.qmltypes
+│   │   │   │       └── qmldir
+│   │   │   ├── qsci
+│   │   │   │   └── api
+│   │   │   │       └── python
+│   │   │   │           └── PyQt5.api
+│   │   │   └── translations
+│   │   │       ├── qtbase_ar.qm
+│   │   │       ├── qtbase_bg.qm
+│   │   │       ├── qtbase_ca.qm
+│   │   │       ├── qtbase_cs.qm
+│   │   │       ├── qtbase_da.qm
+│   │   │       ├── qtbase_de.qm
+│   │   │       ├── qtbase_en.qm
+│   │   │       ├── qtbase_es.qm
+│   │   │       ├── qtbase_fi.qm
+│   │   │       ├── qtbase_fr.qm
+│   │   │       ├── qtbase_gd.qm
+│   │   │       ├── qtbase_he.qm
+│   │   │       ├── qtbase_hu.qm
+│   │   │       ├── qtbase_it.qm
+│   │   │       ├── qtbase_ja.qm
+│   │   │       ├── qtbase_ko.qm
+│   │   │       ├── qtbase_lv.qm
+│   │   │       ├── qtbase_pl.qm
+│   │   │       ├── qtbase_ru.qm
+│   │   │       ├── qtbase_sk.qm
+│   │   │       ├── qtbase_tr.qm
+│   │   │       ├── qtbase_uk.qm
+│   │   │       ├── qtbase_zh_TW.qm
+│   │   │       ├── qtconnectivity_bg.qm
+│   │   │       ├── qtconnectivity_ca.qm
+│   │   │       ├── qtconnectivity_da.qm
+│   │   │       ├── qtconnectivity_de.qm
+│   │   │       ├── qtconnectivity_en.qm
+│   │   │       ├── qtconnectivity_es.qm
+│   │   │       ├── qtconnectivity_hu.qm
+│   │   │       ├── qtconnectivity_ko.qm
+│   │   │       ├── qtconnectivity_pl.qm
+│   │   │       ├── qtconnectivity_ru.qm
+│   │   │       ├── qtconnectivity_tr.qm
+│   │   │       ├── qtconnectivity_uk.qm
+│   │   │       ├── qtdeclarative_bg.qm
+│   │   │       ├── qtdeclarative_da.qm
+│   │   │       ├── qtdeclarative_de.qm
+│   │   │       ├── qtdeclarative_en.qm
+│   │   │       ├── qtdeclarative_es.qm
+│   │   │       ├── qtdeclarative_fi.qm
+│   │   │       ├── qtdeclarative_fr.qm
+│   │   │       ├── qtdeclarative_hu.qm
+│   │   │       ├── qtdeclarative_ja.qm
+│   │   │       ├── qtdeclarative_ko.qm
+│   │   │       ├── qtdeclarative_lv.qm
+│   │   │       ├── qtdeclarative_pl.qm
+│   │   │       ├── qtdeclarative_ru.qm
+│   │   │       ├── qtdeclarative_sk.qm
+│   │   │       ├── qtdeclarative_tr.qm
+│   │   │       ├── qtdeclarative_uk.qm
+│   │   │       ├── qtlocation_bg.qm
+│   │   │       ├── qtlocation_ca.qm
+│   │   │       ├── qtlocation_da.qm
+│   │   │       ├── qtlocation_de.qm
+│   │   │       ├── qtlocation_en.qm
+│   │   │       ├── qtlocation_es.qm
+│   │   │       ├── qtlocation_fi.qm
+│   │   │       ├── qtlocation_fr.qm
+│   │   │       ├── qtlocation_hu.qm
+│   │   │       ├── qtlocation_ko.qm
+│   │   │       ├── qtlocation_pl.qm
+│   │   │       ├── qtlocation_ru.qm
+│   │   │       ├── qtlocation_tr.qm
+│   │   │       ├── qtlocation_uk.qm
+│   │   │       ├── qtmultimedia_ar.qm
+│   │   │       ├── qtmultimedia_bg.qm
+│   │   │       ├── qtmultimedia_ca.qm
+│   │   │       ├── qtmultimedia_cs.qm
+│   │   │       ├── qtmultimedia_da.qm
+│   │   │       ├── qtmultimedia_de.qm
+│   │   │       ├── qtmultimedia_en.qm
+│   │   │       ├── qtmultimedia_es.qm
+│   │   │       ├── qtmultimedia_fi.qm
+│   │   │       ├── qtmultimedia_fr.qm
+│   │   │       ├── qtmultimedia_hu.qm
+│   │   │       ├── qtmultimedia_it.qm
+│   │   │       ├── qtmultimedia_ja.qm
+│   │   │       ├── qtmultimedia_ko.qm
+│   │   │       ├── qtmultimedia_pl.qm
+│   │   │       ├── qtmultimedia_ru.qm
+│   │   │       ├── qtmultimedia_sk.qm
+│   │   │       ├── qtmultimedia_tr.qm
+│   │   │       ├── qtmultimedia_uk.qm
+│   │   │       ├── qtmultimedia_zh_TW.qm
+│   │   │       ├── qtquickcontrols2_ar.qm
+│   │   │       ├── qtquickcontrols2_bg.qm
+│   │   │       ├── qtquickcontrols2_ca.qm
+│   │   │       ├── qtquickcontrols2_da.qm
+│   │   │       ├── qtquickcontrols2_en.qm
+│   │   │       ├── qtquickcontrols2_hu.qm
+│   │   │       ├── qtquickcontrols2_ko.qm
+│   │   │       ├── qtquickcontrols2_tr.qm
+│   │   │       ├── qtquickcontrols2_uk.qm
+│   │   │       ├── qtquickcontrols2_zh_TW.qm
+│   │   │       ├── qtquickcontrols_bg.qm
+│   │   │       ├── qtquickcontrols_ca.qm
+│   │   │       ├── qtquickcontrols_da.qm
+│   │   │       ├── qtquickcontrols_de.qm
+│   │   │       ├── qtquickcontrols_en.qm
+│   │   │       ├── qtquickcontrols_fi.qm
+│   │   │       ├── qtquickcontrols_fr.qm
+│   │   │       ├── qtquickcontrols_ja.qm
+│   │   │       ├── qtquickcontrols_ko.qm
+│   │   │       ├── qtquickcontrols_ru.qm
+│   │   │       ├── qtquickcontrols_tr.qm
+│   │   │       ├── qtquickcontrols_uk.qm
+│   │   │       ├── qtquickcontrols_zh_TW.qm
+│   │   │       ├── qtserialport_de.qm
+│   │   │       ├── qtserialport_en.qm
+│   │   │       ├── qtserialport_es.qm
+│   │   │       ├── qtserialport_ja.qm
+│   │   │       ├── qtserialport_ko.qm
+│   │   │       ├── qtserialport_pl.qm
+│   │   │       ├── qtserialport_ru.qm
+│   │   │       ├── qtserialport_uk.qm
+│   │   │       ├── qtwebsockets_ca.qm
+│   │   │       ├── qtwebsockets_de.qm
+│   │   │       ├── qtwebsockets_en.qm
+│   │   │       ├── qtwebsockets_es.qm
+│   │   │       ├── qtwebsockets_fr.qm
+│   │   │       ├── qtwebsockets_ja.qm
+│   │   │       ├── qtwebsockets_ko.qm
+│   │   │       ├── qtwebsockets_pl.qm
+│   │   │       ├── qtwebsockets_ru.qm
+│   │   │       ├── qtwebsockets_uk.qm
+│   │   │       ├── qtxmlpatterns_bg.qm
+│   │   │       ├── qtxmlpatterns_ca.qm
+│   │   │       ├── qtxmlpatterns_cs.qm
+│   │   │       ├── qtxmlpatterns_da.qm
+│   │   │       ├── qtxmlpatterns_de.qm
+│   │   │       ├── qtxmlpatterns_en.qm
+│   │   │       ├── qtxmlpatterns_es.qm
+│   │   │       ├── qtxmlpatterns_fr.qm
+│   │   │       ├── qtxmlpatterns_hu.qm
+│   │   │       ├── qtxmlpatterns_it.qm
+│   │   │       ├── qtxmlpatterns_ja.qm
+│   │   │       ├── qtxmlpatterns_ko.qm
+│   │   │       ├── qtxmlpatterns_pl.qm
+│   │   │       ├── qtxmlpatterns_ru.qm
+│   │   │       ├── qtxmlpatterns_sk.qm
+│   │   │       ├── qtxmlpatterns_uk.qm
+│   │   │       ├── qtxmlpatterns_zh_TW.qm
+│   │   │       ├── qt_ar.qm
+│   │   │       ├── qt_bg.qm
+│   │   │       ├── qt_ca.qm
+│   │   │       ├── qt_cs.qm
+│   │   │       ├── qt_da.qm
+│   │   │       ├── qt_de.qm
+│   │   │       ├── qt_en.qm
+│   │   │       ├── qt_es.qm
+│   │   │       ├── qt_fa.qm
+│   │   │       ├── qt_fi.qm
+│   │   │       ├── qt_fr.qm
+│   │   │       ├── qt_gd.qm
+│   │   │       ├── qt_gl.qm
+│   │   │       ├── qt_he.qm
+│   │   │       ├── qt_help_ar.qm
+│   │   │       ├── qt_help_bg.qm
+│   │   │       ├── qt_help_ca.qm
+│   │   │       ├── qt_help_cs.qm
+│   │   │       ├── qt_help_da.qm
+│   │   │       ├── qt_help_de.qm
+│   │   │       ├── qt_help_en.qm
+│   │   │       ├── qt_help_es.qm
+│   │   │       ├── qt_help_fr.qm
+│   │   │       ├── qt_help_gl.qm
+│   │   │       ├── qt_help_hu.qm
+│   │   │       ├── qt_help_it.qm
+│   │   │       ├── qt_help_ja.qm
+│   │   │       ├── qt_help_ko.qm
+│   │   │       ├── qt_help_pl.qm
+│   │   │       ├── qt_help_ru.qm
+│   │   │       ├── qt_help_sk.qm
+│   │   │       ├── qt_help_sl.qm
+│   │   │       ├── qt_help_tr.qm
+│   │   │       ├── qt_help_uk.qm
+│   │   │       ├── qt_help_zh_CN.qm
+│   │   │       ├── qt_help_zh_TW.qm
+│   │   │       ├── qt_hu.qm
+│   │   │       ├── qt_it.qm
+│   │   │       ├── qt_ja.qm
+│   │   │       ├── qt_ko.qm
+│   │   │       ├── qt_lt.qm
+│   │   │       ├── qt_lv.qm
+│   │   │       ├── qt_pl.qm
+│   │   │       ├── qt_pt.qm
+│   │   │       ├── qt_ru.qm
+│   │   │       ├── qt_sk.qm
+│   │   │       ├── qt_sl.qm
+│   │   │       ├── qt_sv.qm
+│   │   │       ├── qt_tr.qm
+│   │   │       ├── qt_uk.qm
+│   │   │       ├── qt_zh_CN.qm
+│   │   │       └── qt_zh_TW.qm
+│   │   ├── uic
+│   │   │   ├── Compiler
+│   │   │   │   ├── compiler.py
+│   │   │   │   ├── indenter.py
+│   │   │   │   ├── misc.py
+│   │   │   │   ├── proxy_metaclass.py
+│   │   │   │   ├── qobjectcreator.py
+│   │   │   │   ├── qtproxies.py
+│   │   │   │   └── __init__.py
+│   │   │   ├── Loader
+│   │   │   │   ├── loader.py
+│   │   │   │   ├── qobjectcreator.py
+│   │   │   │   └── __init__.py
+│   │   │   ├── port_v2
+│   │   │   │   ├── ascii_upper.py
+│   │   │   │   ├── as_string.py
+│   │   │   │   ├── proxy_base.py
+│   │   │   │   ├── string_io.py
+│   │   │   │   └── __init__.py
+│   │   │   ├── port_v3
+│   │   │   │   ├── ascii_upper.py
+│   │   │   │   ├── as_string.py
+│   │   │   │   ├── proxy_base.py
+│   │   │   │   ├── string_io.py
+│   │   │   │   └── __init__.py
+│   │   │   ├── widget-plugins
+│   │   │   │   ├── qaxcontainer.py
+│   │   │   │   ├── qscintilla.py
+│   │   │   │   ├── qtcharts.py
+│   │   │   │   ├── qtprintsupport.py
+│   │   │   │   ├── qtquickwidgets.py
+│   │   │   │   ├── qtwebenginewidgets.py
+│   │   │   │   └── qtwebkit.py
+│   │   │   ├── driver.py
+│   │   │   ├── exceptions.py
+│   │   │   ├── icon_cache.py
+│   │   │   ├── objcreator.py
+│   │   │   ├── properties.py
+│   │   │   ├── pyuic.py
+│   │   │   ├── uiparser.py
+│   │   │   └── __init__.py
+│   │   ├── py.typed
+│   │   ├── pylupdate.pyd
+│   │   ├── pylupdate_main.py
+│   │   ├── pyrcc.pyd
+│   │   ├── pyrcc_main.py
+│   │   ├── QAxContainer.pyd
+│   │   ├── QAxContainer.pyi
+│   │   ├── Qt.pyd
+│   │   ├── QtBluetooth.pyd
+│   │   ├── QtBluetooth.pyi
+│   │   ├── QtCore.pyd
+│   │   ├── QtCore.pyi
+│   │   ├── QtDBus.pyd
+│   │   ├── QtDBus.pyi
+│   │   ├── QtDesigner.pyd
+│   │   ├── QtDesigner.pyi
+│   │   ├── QtGui.pyd
+│   │   ├── QtGui.pyi
+│   │   ├── QtHelp.pyd
+│   │   ├── QtHelp.pyi
+│   │   ├── QtLocation.pyd
+│   │   ├── QtLocation.pyi
+│   │   ├── QtMultimedia.pyd
+│   │   ├── QtMultimedia.pyi
+│   │   ├── QtMultimediaWidgets.pyd
+│   │   ├── QtMultimediaWidgets.pyi
+│   │   ├── QtNetwork.pyd
+│   │   ├── QtNetwork.pyi
+│   │   ├── QtNfc.pyd
+│   │   ├── QtNfc.pyi
+│   │   ├── QtOpenGL.pyd
+│   │   ├── QtOpenGL.pyi
+│   │   ├── QtPositioning.pyd
+│   │   ├── QtPositioning.pyi
+│   │   ├── QtPrintSupport.pyd
+│   │   ├── QtPrintSupport.pyi
+│   │   ├── QtQml.pyd
+│   │   ├── QtQml.pyi
+│   │   ├── QtQuick.pyd
+│   │   ├── QtQuick.pyi
+│   │   ├── QtQuick3D.pyd
+│   │   ├── QtQuick3D.pyi
+│   │   ├── QtQuickWidgets.pyd
+│   │   ├── QtQuickWidgets.pyi
+│   │   ├── QtRemoteObjects.pyd
+│   │   ├── QtRemoteObjects.pyi
+│   │   ├── QtSensors.pyd
+│   │   ├── QtSensors.pyi
+│   │   ├── QtSerialPort.pyd
+│   │   ├── QtSerialPort.pyi
+│   │   ├── QtSql.pyd
+│   │   ├── QtSql.pyi
+│   │   ├── QtSvg.pyd
+│   │   ├── QtSvg.pyi
+│   │   ├── QtTest.pyd
+│   │   ├── QtTest.pyi
+│   │   ├── QtTextToSpeech.pyd
+│   │   ├── QtTextToSpeech.pyi
+│   │   ├── QtWebChannel.pyd
+│   │   ├── QtWebChannel.pyi
+│   │   ├── QtWebSockets.pyd
+│   │   ├── QtWebSockets.pyi
+│   │   ├── QtWidgets.pyd
+│   │   ├── QtWidgets.pyi
+│   │   ├── QtWinExtras.pyd
+│   │   ├── QtWinExtras.pyi
+│   │   ├── QtXml.pyd
+│   │   ├── QtXml.pyi
+│   │   ├── QtXmlPatterns.pyd
+│   │   ├── QtXmlPatterns.pyi
+│   │   ├── sip.cp312-win_amd64.pyd
+│   │   ├── sip.pyi
+│   │   ├── _QOpenGLFunctions_2_0.pyd
+│   │   ├── _QOpenGLFunctions_2_1.pyd
+│   │   ├── _QOpenGLFunctions_4_1_Core.pyd
+│   │   └── __init__.py
+│   ├── PyQt5-5.15.7.dist-info
+│   │   ├── entry_points.txt
+│   │   ├── INSTALLER
+│   │   ├── METADATA
+│   │   ├── RECORD
+│   │   ├── REQUESTED
+│   │   └── WHEEL
+│   ├── PyQt5_Qt5-5.15.2.dist-info
+│   │   ├── INSTALLER
+│   │   ├── LICENSE
+│   │   ├── METADATA
+│   │   ├── RECORD
+│   │   └── WHEEL
+│   ├── pyqt5_sip-12.18.0.dist-info
+│   │   ├── licenses
+│   │   │   └── LICENSE
+│   │   ├── INSTALLER
+│   │   ├── METADATA
+│   │   ├── RECORD
+│   │   ├── top_level.txt
+│   │   └── WHEEL
+│   ├── requests
+│   │   ├── adapters.py
+│   │   ├── api.py
+│   │   ├── auth.py
+│   │   ├── certs.py
+│   │   ├── compat.py
+│   │   ├── cookies.py
+│   │   ├── exceptions.py
+│   │   ├── help.py
+│   │   ├── hooks.py
+│   │   ├── models.py
+│   │   ├── packages.py
+│   │   ├── sessions.py
+│   │   ├── status_codes.py
+│   │   ├── structures.py
+│   │   ├── utils.py
+│   │   ├── _internal_utils.py
+│   │   ├── __init__.py
+│   │   └── __version__.py
+│   ├── requests-2.31.0.dist-info
+│   │   ├── INSTALLER
+│   │   ├── LICENSE
+│   │   ├── METADATA
+│   │   ├── RECORD
+│   │   ├── REQUESTED
+│   │   ├── top_level.txt
+│   │   └── WHEEL
+│   ├── urllib3
+│   │   ├── contrib
+│   │   │   ├── emscripten
+│   │   │   │   ├── connection.py
+│   │   │   │   ├── emscripten_fetch_worker.js
+│   │   │   │   ├── fetch.py
+│   │   │   │   ├── request.py
+│   │   │   │   ├── response.py
+│   │   │   │   └── __init__.py
+│   │   │   ├── pyopenssl.py
+│   │   │   ├── socks.py
+│   │   │   └── __init__.py
+│   │   ├── http2
+│   │   │   ├── connection.py
+│   │   │   ├── probe.py
+│   │   │   └── __init__.py
+│   │   ├── util
+│   │   │   ├── connection.py
+│   │   │   ├── proxy.py
+│   │   │   ├── request.py
+│   │   │   ├── response.py
+│   │   │   ├── retry.py
+│   │   │   ├── ssltransport.py
+│   │   │   ├── ssl_.py
+│   │   │   ├── ssl_match_hostname.py
+│   │   │   ├── timeout.py
+│   │   │   ├── url.py
+│   │   │   ├── util.py
+│   │   │   ├── wait.py
+│   │   │   └── __init__.py
+│   │   ├── connection.py
+│   │   ├── connectionpool.py
+│   │   ├── exceptions.py
+│   │   ├── fields.py
+│   │   ├── filepost.py
+│   │   ├── poolmanager.py
+│   │   ├── py.typed
+│   │   ├── response.py
+│   │   ├── _base_connection.py
+│   │   ├── _collections.py
+│   │   ├── _request_methods.py
+│   │   ├── _version.py
+│   │   └── __init__.py
+│   ├── urllib3-2.6.3.dist-info
+│   │   ├── licenses
+│   │   │   └── LICENSE.txt
+│   │   ├── INSTALLER
+│   │   ├── METADATA
+│   │   ├── RECORD
+│   │   └── WHEEL
+│   ├── werkzeug
+│   │   ├── datastructures
+│   │   │   ├── accept.py
+│   │   │   ├── auth.py
+│   │   │   ├── cache_control.py
+│   │   │   ├── csp.py
+│   │   │   ├── etag.py
+│   │   │   ├── file_storage.py
+│   │   │   ├── headers.py
+│   │   │   ├── mixins.py
+│   │   │   ├── range.py
+│   │   │   ├── structures.py
+│   │   │   └── __init__.py
+│   │   ├── debug
+│   │   │   ├── shared
+│   │   │   │   ├── console.png
+│   │   │   │   ├── debugger.js
+│   │   │   │   ├── ICON_LICENSE.md
+│   │   │   │   ├── less.png
+│   │   │   │   ├── more.png
+│   │   │   │   └── style.css
+│   │   │   ├── console.py
+│   │   │   ├── repr.py
+│   │   │   ├── tbtools.py
+│   │   │   └── __init__.py
+│   │   ├── middleware
+│   │   │   ├── dispatcher.py
+│   │   │   ├── http_proxy.py
+│   │   │   ├── lint.py
+│   │   │   ├── profiler.py
+│   │   │   ├── proxy_fix.py
+│   │   │   ├── shared_data.py
+│   │   │   └── __init__.py
+│   │   ├── routing
+│   │   │   ├── converters.py
+│   │   │   ├── exceptions.py
+│   │   │   ├── map.py
+│   │   │   ├── matcher.py
+│   │   │   ├── rules.py
+│   │   │   └── __init__.py
+│   │   ├── sansio
+│   │   │   ├── http.py
+│   │   │   ├── multipart.py
+│   │   │   ├── request.py
+│   │   │   ├── response.py
+│   │   │   ├── utils.py
+│   │   │   └── __init__.py
+│   │   ├── wrappers
+│   │   │   ├── request.py
+│   │   │   ├── response.py
+│   │   │   └── __init__.py
+│   │   ├── exceptions.py
+│   │   ├── formparser.py
+│   │   ├── http.py
+│   │   ├── local.py
+│   │   ├── py.typed
+│   │   ├── security.py
+│   │   ├── serving.py
+│   │   ├── test.py
+│   │   ├── testapp.py
+│   │   ├── urls.py
+│   │   ├── user_agent.py
+│   │   ├── utils.py
+│   │   ├── wsgi.py
+│   │   ├── _internal.py
+│   │   ├── _reloader.py
+│   │   └── __init__.py
+│   ├── werkzeug-3.1.8.dist-info
+│   │   ├── licenses
+│   │   │   └── LICENSE.txt
+│   │   ├── INSTALLER
+│   │   ├── METADATA
+│   │   ├── RECORD
+│   │   └── WHEEL
+│   └── 81d243bd2c585b0f4821__mypyc.cp312-win_amd64.pyd
+├── Watchdog
+│   ├── .NETCoreApp,Version=v10.0.AssemblyAttributes.cs
+│   ├── Program.cs
+│   ├── project.assets.json
+│   ├── Watchdog.AssemblyInfo.cs
+│   ├── Watchdog.csproj
+│   ├── Watchdog.csproj.nuget.dgspec.json
+│   ├── Watchdog.deps.json
+│   ├── Watchdog.GlobalUsings.g.cs
+│   ├── Watchdog.runtimeconfig.json
+│   ├── Watchdog.sln
+│   └── Watchdog.sourcelink.json
+├── web
+│   ├── app.js
+│   ├── realtime.js
+│   ├── STARY index.html
+│   ├── storage.js
+│   ├── styles.css
+│   ├── sync.json
+│   └── websocket_server.py
+├── .gitignore
+├── auto_update_and_run.ps1
+├── folder_map.txt
+├── folder_tree.txt
+├── install.sh
+├── project_tree.txt
+├── README.md
+├── requirements.txt
+├── setup.ps1
+├── sync.json
+├── sync_manager.py
+├── todos.db
+├── update.json
+├── update.ps1
+└── update.zip

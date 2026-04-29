@@ -1,0 +1,17 @@
+from PyQt5.QtCore import QThread, pyqtSignal
+from flask import Flask
+
+class Worker(QThread):
+    def __init__(self):
+        QThread.__init__(self)
+        self.app = Flask(__name__)
+
+    def run(self):
+        self.app.run()
+
+class MainWindow(QMainWindow):
+    def __init__(self):
+        super().__init__()
+        self.worker = Worker()
+        self.worker.start()
+        self.worker.finished.connect(self.on_worker_finished)

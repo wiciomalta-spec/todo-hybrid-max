@@ -1,3 +1,17 @@
 ﻿PyQt5==5.15.7
 Flask==2.3.2
 requests==2.31.0
+pyserial
+pyusb
+python-can
+can-isotp
+pycryptodome
+numpy
+scipy
+scikit-learn
+pandas
+plotly
+Pillow
+colorama
+pyfiglet
+rich

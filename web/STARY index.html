@@ -1,0 +1,54 @@
+﻿<body class="max-mode">
+  <div class="app-shell">
+    <header class="app-header">
+      <div class="logo-block">
+        <span class="logo-main">TO‑DO HYBRID</span>
+        <span class="logo-sub">MAX MODE</span>
+      </div>
+      <div class="status-block">
+        <span class="status-dot"></span>
+        <span class="status-text">LOCAL · SYNC READY</span>
+      </div>
+    </header>
+
+    <main class="app-main">
+      <section class="panel panel-left">
+        <h2 class="panel-title">Tasks</h2>
+        <div class="input-row">
+          <input id="task-input" type="text" placeholder="Wpisz zadanie..." />
+          <button id="add-btn" class="btn primary">Dodaj</button>
+        </div>
+        <ul id="task-list" class="task-list"></ul>
+      </section>
+
+      <section class="panel panel-right">
+        <h2 class="panel-title">Control Center</h2>
+        <div class="control-grid">
+          <button id="sync-btn" class="btn accent">
+            <span class="btn-icon">🔄</span>
+            <span>Sync</span>
+          </button>
+          <button id="clear-btn" class="btn danger">
+            <span class="btn-icon">🧹</span>
+            <span>Wyczyść</span>
+          </button>
+        </div>
+        <div class="metrics">
+          <div class="metric">
+            <span class="metric-label">Zadań</span>
+            <span id="metric-total" class="metric-value">0</span>
+          </div>
+          <div class="metric">
+            <span class="metric-label">Ukończone</span>
+            <span id="metric-done" class="metric-value">0</span>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="app-footer">
+      <span>To‑Do Hybrid MAX · v1.0</span>
+      <span>LOCAL ONLY · NO CLOUD</span>
+    </footer>
+  </div>
+</body>

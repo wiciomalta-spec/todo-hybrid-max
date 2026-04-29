@@ -1,0 +1,100 @@
+<Window x:Class="Watchdog.GUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WATCHDOG CONTROL PANEL"
+        Width="1000" Height="720"
+        Background="#000000"
+        FontFamily="Consolas"
+        WindowStyle="None"
+        ResizeMode="CanResize"
+        AllowsTransparency="False">
+
+    <Window.Resources>
+        <Storyboard x:Key="Pulse">
+            <DoubleAnimation Storyboard.TargetProperty="Opacity"
+                             From="0.96" To="1.0"
+                             Duration="0:0:0.4"
+                             AutoReverse="True"
+                             RepeatBehavior="Forever"/>
+        </Storyboard>
+    </Window.Resources>
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="60"/>
+        </Grid.RowDefinitions>
+
+        <DockPanel Grid.Row="0">
+            <TextBlock Text="WATCHDOG CONTROL PANEL"
+                       Foreground="#00FF00"
+                       FontSize="24"
+                       VerticalAlignment="Center"
+                       DockPanel.Dock="Left"/>
+
+            <StackPanel Orientation="Horizontal" DockPanel.Dock="Right" VerticalAlignment="Center">
+                <TextBlock x:Name="StatsText"
+                           Foreground="#00FF00"
+                           Margin="0,0,10,0"
+                           VerticalAlignment="Center"
+                           Text="CPU: 0%  RAM: 0 MB"/>
+                <Button Content="SETTINGS"
+                        Width="100"
+                        Height="30"
+                        Background="#111111"
+                        Foreground="#00FFAA"
+                        Margin="0,0,10,0"
+                        Click="Settings_Click"/>
+                <Button Content="X"
+                        Width="40"
+                        Height="40"
+                        Background="#330000"
+                        Foreground="#FF3333"
+                        Click="Close_Click"/>
+            </StackPanel>
+        </DockPanel>
+
+        <ScrollViewer Grid.Row="1" Background="#001100">
+            <TextBlock x:Name="LogOutput"
+                       Foreground="#00FF00"
+                       FontSize="14"
+                       TextWrapping="Wrap"/>
+        </ScrollViewer>
+
+        <TextBox Grid.Row="2"
+                 x:Name="PsInput"
+                 Background="#000000"
+                 Foreground="#00FF00"
+                 FontFamily="Consolas"
+                 Height="30"
+                 Margin="0,5,0,5"
+                 Text="Get-Service WatchdogService" />
+
+        <StackPanel Grid.Row="3" Orientation="Horizontal" HorizontalAlignment="Center" Spacing="20">
+
+            <Button Content="START SERVICE"
+                    Width="150" Height="40"
+                    Background="#003300" Foreground="#00FF00"
+                    Click="StartService_Click"/>
+
+            <Button Content="STOP SERVICE"
+                    Width="150" Height="40"
+                    Background="#330000" Foreground="#FF3333"
+                    Click="StopService_Click"/>
+
+            <Button Content="REFRESH LOG"
+                    Width="150" Height="40"
+                    Background="#002200" Foreground="#00FF00"
+                    Click="RefreshLog_Click"/>
+
+            <Button Content="RUN PS"
+                    Width="150" Height="40"
+                    Background="#001133" Foreground="#00FFAA"
+                    Click="RunPs_Click"/>
+
+        </StackPanel>
+
+    </Grid>
+</Window>
