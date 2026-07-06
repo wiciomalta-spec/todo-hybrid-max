@@ -1,4 +1,4 @@
-﻿###############################################
+###############################################
 # HYBRID ULTIMATE .gitignore
 # Python + C# + Desktop + Updater + Vendor
 ###############################################
@@ -99,3 +99,10 @@ node_modules/
 Thumbs.db
 .DS_Store
 desktop.ini
+
+###############
+# AUTO-GENERATED FILES (DO NOT COMMIT)
+###############
+folder_map.txt
+folder_tree.txt
+project_tree.txt
